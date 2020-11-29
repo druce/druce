@@ -10,6 +10,7 @@ Tech veteran, quant analyst, data scientist, developer, tech strategist, CTO wit
 * <a href="mailto:druce@streeteye.com">Email</a>
 
 <p>
+<img src="https://img.shields.io/badge/Data%20Science-EEEEEE?logo=SimpleIconName&logoColor=ColorName&style=plastic">
 <img src="https://img.shields.io/badge/Machine%20Learning-EEEEEE?logo=SimpleIconName&logoColor=ColorName&style=plastic">
 <img src="https://img.shields.io/badge/Python-EEEEEE?logo=Python&logoColor=ColorName&style=plastic">
 <img src="https://img.shields.io/badge/R-242637?logo=R&logoColor=ColorName&style=plastic">
