@@ -22,11 +22,7 @@ Tech veteran, quant analyst, data scientist, developer, tech strategist, CTO wit
 <img src="https://img.shields.io/badge/Data%20Vizualization-EEEEEE?logo=SimpleIconName&logoColor=ColorName&style=plastic">
 </p>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=druce)
-
-<img src="https://github-readme-stats.vercel.app/api?username=druce" />
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=light&layout=socrates)
 
 <!--
 **druce/druce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
