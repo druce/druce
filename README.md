@@ -1,6 +1,9 @@
 ### Hi there 
 ![Skyline banner image](github_banner.jpg "banner")
 
+# Druce Vertes
+
+<img src="https://img.shields.io/badge/BadgeText-HexColor?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
 <!--
 **druce/druce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
