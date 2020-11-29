@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 
+![Skyline banner image](github_banner.jpg "banner")
 
 <!--
 **druce/druce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
