@@ -23,8 +23,7 @@ Tech veteran, quant analyst, data scientist, developer, tech strategist, CTO wit
 <img src="https://img.shields.io/badge/Data%20Vizualization-EEEEEE?logo=SimpleIconName&logoColor=ColorName&style=plastic">
 </p>
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=light&layout=socrates?quotesUrl=https://gist.githubusercontent.com/druce/68a9d68182ca310e64810d5baffc5206/raw/7850f0bbefa1d2f6190df2fd875f2ec4e1eea57e/dvquotes.json
-)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=light&layout=socrates?quotesUrl=https://gist.githubusercontent.com/druce/68a9d68182ca310e64810d5baffc5206/raw/7850f0bbefa1d2f6190df2fd875f2ec4e1eea57e/dvquotes.json)
 
 <!--
 **druce/druce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
