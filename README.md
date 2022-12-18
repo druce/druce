@@ -4,6 +4,8 @@
 
 Tech veteran, quant analyst, data scientist, developer, tech strategist, CTO with leading hedge funds and Wall Street firms since 1992, consulting on machine learning, alternative data, predictive analytics.
 
+"A life well lived is a series of personal obsessions shared without expectation of an audience." - some guy un1crom on Hacker News
+
 * <a href="https://druce.ai/assets/doc/DruceVertes.pdf">Résumé</a>
 * <a href="https://www.linkedin.com/in/drucevertes/">LinkedIn</a>
 * <a href="https://twitter.com/streeteye">Twitter</a>
