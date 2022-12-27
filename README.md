@@ -9,7 +9,7 @@ Tech veteran, quant analyst, data scientist, developer, tech strategist, CTO wit
 * <a href="https://druce.ai/assets/doc/DruceVertes.pdf">Résumé</a>
 * <a href="https://www.linkedin.com/in/drucevertes/">LinkedIn</a>
 * <a href="https://twitter.com/streeteye">Twitter</a>
-* <a href="mailto:druce@streeteye.com">Email</a>
+* <a href="mailto:dv114@columbia.edu">Email</a>
 
 <p>
 <img src="https://img.shields.io/badge/Data%20Science-EEEEEE?logo=SimpleIconName&logoColor=ColorName&style=plastic">
