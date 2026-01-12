@@ -15,26 +15,35 @@ Tech veteran, quant analyst, data scientist, developer, tech strategist, CTO wit
 ## 🔗 Connect
 
 <img src="https://cdn.simpleicons.org/adobe/EC1C24" width="20" height="20" style="vertical-align: text-bottom;" /> [Résumé](https://druce.ai/assets/doc/DruceVertes.pdf)
+
 <img src="https://cdn.simpleicons.org/gmail/EA4335" width="20" height="20" style="vertical-align: text-bottom;" /> [Email](mailto:druce@druce.ai)
+
 <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20" height="20" style="vertical-align: text-bottom;" /> [LinkedIn](https://www.linkedin.com/in/drucevertes/)
+
 <img src="https://cdn.simpleicons.org/bluesky/1185FE" width="20" height="20" style="vertical-align: text-bottom;" /> [BlueSky](https://bsky.app/profile/druce.ai)
+
 <img src="https://cdn.simpleicons.org/calendly/006BFF" width="20" height="20" style="vertical-align: text-bottom;" /> [Book a Meeting](https://calendly.com/drucev)
+
 <img src="https://cdn.simpleicons.org/rss/FFA500" width="20" height="20" style="vertical-align: text-bottom;" /> [Daily AI News at Skynet And Chill](https://skynetandchill.druce.ai/)
 
 ## 🛠️ Tech Stack
 
-### AI & Machine Learning
-
-![AI/ML Skills](https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark)
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
 ### Languages
 
 ![Languages](https://skillicons.dev/icons?i=py,r,js,cpp,postgres&theme=dark)
+
+### AI & Machine Learning
+
+![AI/ML Skills](https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=keras&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+### Cloud & Infrastructure
+
+![Cloud & Infrastructure](https://skillicons.dev/icons?i=aws,gcp,azure,docker&theme=dark)
 
 ### Data & Analytics
 
@@ -44,9 +53,6 @@ Tech veteran, quant analyst, data scientist, developer, tech strategist, CTO wit
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
 
-### Cloud & Infrastructure
-
-![Cloud & Infrastructure](https://skillicons.dev/icons?i=aws,gcp,azure,docker&theme=dark)
 
 ### Finance & Quant
 
