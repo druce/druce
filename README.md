@@ -8,7 +8,6 @@ Machine Learning Engineer | Data Scientist | Quantitative Analyst
 
 I write about AI, machine learning, finance, economics, and technology at [druce.ai](https://druce.ai).
 
-
 Tech veteran, quant analyst, data scientist, developer, tech strategist, CTO with leading hedge funds and Wall Street firms since 1992, consulting on machine learning, alternative data, predictive analytics. [More about me](https://druce.ai/about.html).
 
 > "A life well lived is a series of personal obsessions shared without expectation of an audience." - un1crom on Hacker News
