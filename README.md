@@ -4,11 +4,17 @@
 
 ## About Me
 
-Machine Learning Engineer | Data Scientist | Quantitative Analyst
+**Building production AI systems for investment management**
 
-Tech veteran, quant analyst, data scientist, developer, tech strategist, CTO with leading hedge funds and Wall Street firms since 1992, consulting on machine learning, alternative data, predictive analytics. [More about me](https://druce.ai/about.html).
+ 30+ years in financial markets, technology, and AI at leading firms like Tiger Management and Caxton; Former CTO at $2B hedge fund.
 
-> "A life well lived is a series of personal obsessions shared without expectation of an audience." - un1crom on Hacker News
+ **Focus:**
+
+ - Helping hedge funds implement AI strategy and build production systems
+ - Research tools, agentic workflows, AI-first coding
+ - Robust data pipelines and ML for investment management
+
+[More about me](https://druce.ai/about.html).
 
 ## 🔗 Connect
 
