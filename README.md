@@ -14,28 +14,17 @@ Tech veteran, quant analyst, data scientist, developer, tech strategist, CTO wit
 
 ## 🔗 Connect
 
-<img src="https://img.shields.io/badge/-EC1C24?style=flat&logo=adobeacrobatreader&logoColor=white" height="20" style="vertical-align: text-bottom;" /> [Résumé](https://druce.ai/assets/doc/DruceVertes.pdf)
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/adobeacrobatreader.svg" width="24" />[Résumé](https://druce.ai/assets/doc/DruceVertes.pdf)
 
 <img src="https://img.shields.io/badge/-EA4335?style=flat&logo=gmail&logoColor=white" height="20" style="vertical-align: text-bottom;" /> [Email](mailto:druce@druce.ai)
 
-<img src="https://img.shields.io/badge/-0A66C2?style=flat&logo=linkedin&logoColor=white" height="20" style="vertical-align: text-bottom;" /> [LinkedIn](https://www.linkedin.com/in/drucevertes/)
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" width="20" /> [LinkedIn](https://www.linkedin.com/in/drucevertes/)
 
 <img src="https://img.shields.io/badge/-1185FE?style=flat&logo=bluesky&logoColor=white" height="20" style="vertical-align: text-bottom;" /> [BlueSky](https://bsky.app/profile/druce.ai)
 
 <img src="https://img.shields.io/badge/-006BFF?style=flat&logo=calendly&logoColor=white" height="20" style="vertical-align: text-bottom;" /> [Book a Meeting](https://calendly.com/drucev)
 
 <img src="https://img.shields.io/badge/-FFA500?style=flat&logo=rss&logoColor=white" height="20" style="vertical-align: text-bottom;" /> [Daily AI News at Skynet And Chill](https://skynetandchill.druce.ai/)
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/yourprofile">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" width="24" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/yourrepo/blob/main/DruceVertes2025.pdf">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/adobeacrobatreader.svg" width="24" />
-  </a>
-</p>
-
 
 ## 🛠️ Tech Stack
 
