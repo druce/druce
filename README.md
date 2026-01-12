@@ -14,12 +14,12 @@ Tech veteran, quant analyst, data scientist, developer, tech strategist, CTO wit
 
 ## 🔗 Connect
 
-<img src="https://cdn.simpleicons.org/adobeacrobatreader/EC1C24" width="20" height="20" /> [Résumé](https://druce.ai/assets/doc/DruceVertes.pdf)
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="20" height="20" /> [Email](mailto:druce@druce.ai)
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20" height="20" /> [LinkedIn](https://www.linkedin.com/in/drucevertes/)
-<img src="https://cdn.simpleicons.org/bluesky/1185FE" width="20" height="20" /> [BlueSky](https://bsky.app/profile/druce.ai)
-<img src="https://cdn.simpleicons.org/calendly/006BFF" width="20" height="20" /> [Book a Meeting](https://calendly.com/drucev)
-<img src="https://cdn.simpleicons.org/rss/FFA500" width="20" height="20" /> [Daily AI News at Skynet And Chill](https://skynetandchill.druce.ai/)
+<img src="https://cdn.simpleicons.org/adobe/EC1C24" width="20" height="20" style="vertical-align: text-bottom;" /> [Résumé](https://druce.ai/assets/doc/DruceVertes.pdf)
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="20" height="20" style="vertical-align: text-bottom;" /> [Email](mailto:druce@druce.ai)
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20" height="20" style="vertical-align: text-bottom;" /> [LinkedIn](https://www.linkedin.com/in/drucevertes/)
+<img src="https://cdn.simpleicons.org/bluesky/1185FE" width="20" height="20" style="vertical-align: text-bottom;" /> [BlueSky](https://bsky.app/profile/druce.ai)
+<img src="https://cdn.simpleicons.org/calendly/006BFF" width="20" height="20" style="vertical-align: text-bottom;" /> [Book a Meeting](https://calendly.com/drucev)
+<img src="https://cdn.simpleicons.org/rss/FFA500" width="20" height="20" style="vertical-align: text-bottom;" /> [Daily AI News at Skynet And Chill](https://skynetandchill.druce.ai/)
 
 ## 🛠️ Tech Stack
 
