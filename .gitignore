@@ -1,0 +1,36 @@
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# Image source/working files (keep only optimized banner)
+crop.jpg
+original.jpg
+*.psd
+*.ai
+*_original.*
+*_unoptimized.*
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+temp/
+tmp/
+
+# Personal fortune file (uncomment if you want to keep it private)
+# .fortune_mission
