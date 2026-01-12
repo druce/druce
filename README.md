@@ -14,17 +14,17 @@ Tech veteran, quant analyst, data scientist, developer, tech strategist, CTO wit
 
 ## 🔗 Connect
 
-<img src="https://cdn.simpleicons.org/adobe/EC1C24" width="20" height="20" style="vertical-align: text-bottom;" /> [Résumé](https://druce.ai/assets/doc/DruceVertes.pdf)
+<img src="https://img.shields.io/badge/-EC1C24?style=flat&logo=adobeacrobatreader&logoColor=white" height="20" style="vertical-align: text-bottom;" /> [Résumé](https://druce.ai/assets/doc/DruceVertes.pdf)
 
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="20" height="20" style="vertical-align: text-bottom;" /> [Email](mailto:druce@druce.ai)
+<img src="https://img.shields.io/badge/-EA4335?style=flat&logo=gmail&logoColor=white" height="20" style="vertical-align: text-bottom;" /> [Email](mailto:druce@druce.ai)
 
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20" height="20" style="vertical-align: text-bottom;" /> [LinkedIn](https://www.linkedin.com/in/drucevertes/)
+<img src="https://img.shields.io/badge/-0A66C2?style=flat&logo=linkedin&logoColor=white" height="20" style="vertical-align: text-bottom;" /> [LinkedIn](https://www.linkedin.com/in/drucevertes/)
 
-<img src="https://cdn.simpleicons.org/bluesky/1185FE" width="20" height="20" style="vertical-align: text-bottom;" /> [BlueSky](https://bsky.app/profile/druce.ai)
+<img src="https://img.shields.io/badge/-1185FE?style=flat&logo=bluesky&logoColor=white" height="20" style="vertical-align: text-bottom;" /> [BlueSky](https://bsky.app/profile/druce.ai)
 
-<img src="https://cdn.simpleicons.org/calendly/006BFF" width="20" height="20" style="vertical-align: text-bottom;" /> [Book a Meeting](https://calendly.com/drucev)
+<img src="https://img.shields.io/badge/-006BFF?style=flat&logo=calendly&logoColor=white" height="20" style="vertical-align: text-bottom;" /> [Book a Meeting](https://calendly.com/drucev)
 
-<img src="https://cdn.simpleicons.org/rss/FFA500" width="20" height="20" style="vertical-align: text-bottom;" /> [Daily AI News at Skynet And Chill](https://skynetandchill.druce.ai/)
+<img src="https://img.shields.io/badge/-FFA500?style=flat&logo=rss&logoColor=white" height="20" style="vertical-align: text-bottom;" /> [Daily AI News at Skynet And Chill](https://skynetandchill.druce.ai/)
 
 ## 🛠️ Tech Stack
 
@@ -34,7 +34,6 @@ Tech veteran, quant analyst, data scientist, developer, tech strategist, CTO wit
 
 ### AI & Machine Learning
 
-![AI/ML Skills](https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=keras&logoColor=white)
