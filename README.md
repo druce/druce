@@ -26,6 +26,9 @@ Tech veteran, quant analyst, data scientist, developer, tech strategist, CTO wit
 
 <img src="https://img.shields.io/badge/-FFA500?style=flat&logo=rss&logoColor=white" height="20" style="vertical-align: text-bottom;" /> [Daily AI News at Skynet And Chill](https://skynetandchill.druce.ai/)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+[![Resume](https://img.shields.io/badge/PDF-Resume-red?logo=adobeacrobatreader)](https://github.com/yourrepo/blob/main/DruceVertes2025.pdf)
+
 ## 🛠️ Tech Stack
 
 ### Languages
