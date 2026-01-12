@@ -32,6 +32,10 @@ Tech veteran, quant analyst, data scientist, developer, tech strategist, CTO wit
 
 ![Languages](https://skillicons.dev/icons?i=py,r,js,cpp,postgres&theme=dark)
 
+### Cloud & Infrastructure
+
+![Cloud & Infrastructure](https://skillicons.dev/icons?i=aws,gcp,azure,docker&theme=dark)
+
 ### AI & Machine Learning
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
@@ -39,10 +43,6 @@ Tech veteran, quant analyst, data scientist, developer, tech strategist, CTO wit
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=keras&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
-### Cloud & Infrastructure
-
-![Cloud & Infrastructure](https://skillicons.dev/icons?i=aws,gcp,azure,docker&theme=dark)
 
 ### Data & Analytics
 
