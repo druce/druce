@@ -51,17 +51,13 @@ fi
 # Format quote as markdown blockquote (add > prefix to each line)
 formatted_quote=$(echo "$quote" | sed 's/^/> /')
 
-# Get current date in ISO format
-current_date=$(date -u +"%Y-%m-%d")
-
 # Create temporary file for the new README content
 temp_file=$(mktemp)
 
 # Use awk to replace content between markers
-awk -v quote="$formatted_quote" -v date="$current_date" '
+awk -v quote="$formatted_quote" '
 BEGIN {
     in_quote = 0
-    in_date = 0
 }
 /<!-- QUOTE:START -->/ {
     print
@@ -74,10 +70,6 @@ BEGIN {
     print
     next
 }
-/^\*Last updated:/ {
-    print "*Last updated: " date "*"
-    next
-}
 !in_quote {
     print
 }
@@ -87,4 +79,3 @@ BEGIN {
 mv "$temp_file" "$README_FILE"
 
 echo "README updated successfully with a new quote!"
-echo "Date updated to: $current_date"

@@ -23,7 +23,7 @@ Tech veteran, quant analyst, data scientist, developer, tech strategist, CTO wit
 
 ## 🛠️ Tech Stack
 
-**AI & Machine Learning**
+### AI & Machine Learning
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
@@ -32,7 +32,7 @@ Tech veteran, quant analyst, data scientist, developer, tech strategist, CTO wit
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
-**Languages**
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
@@ -40,7 +40,7 @@ Tech veteran, quant analyst, data scientist, developer, tech strategist, CTO wit
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-**Data & Analytics**
+### Data & Analytics
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -48,14 +48,14 @@ Tech veteran, quant analyst, data scientist, developer, tech strategist, CTO wit
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
 
-**Cloud & Infrastructure**
+### Cloud & Infrastructure
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-**Finance & Quant**
+### Finance & Quant
 
 ![Bloomberg](https://img.shields.io/badge/Bloomberg-000000?style=flat&logo=bloomberg&logoColor=white)
 ![Portfolio Optimization](https://img.shields.io/badge/Portfolio_Optimization-2C5F2D?style=flat)
@@ -65,12 +65,10 @@ Tech veteran, quant analyst, data scientist, developer, tech strategist, CTO wit
 ---
 
 <!-- QUOTE:START -->
-> Just because something doesn't do what you planned it to do doesn't mean it's useless. - Thomas Alva Edison
+> Diplomacy without power is feeble, and power without diplomacy is destructive and blind. - Hans Morgenthau
 <!-- QUOTE:END -->
 
 ---
-
-*Last updated: 2026-01-12*
 
 ## 📊 GitHub Stats
 
