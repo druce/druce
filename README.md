@@ -1,8 +1,8 @@
 # Hi, I'm Druce 👋
 
-## About Me
-
 ![Skyline banner image](github_banner.jpg "banner")
+
+## About Me
 
 Machine Learning Engineer | Data Scientist | Quantitative Analyst
 
@@ -70,4 +70,6 @@ Tech veteran, quant analyst, data scientist, developer, tech strategist, CTO wit
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=druce&show_icons=true&theme=radical)
+![](https://raw.githubusercontent.com/druce/druce/main/profile-summary-card-output/0-profile-details.svg)
+![](https://raw.githubusercontent.com/druce/druce/main/profile-summary-card-output/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/druce/druce/main/profile-summary-card-output/2-most-commit-language.svg)
