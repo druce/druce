@@ -65,7 +65,7 @@ Tech veteran, quant analyst, data scientist, developer, tech strategist, CTO wit
 ---
 
 <!-- QUOTE:START -->
-> Diplomacy without power is feeble, and power without diplomacy is destructive and blind. - Hans Morgenthau
+> An audience is never wrong. An individual member of it may be an imbecile, but a thousand imbeciles together in the dark - that is critical genius. - Billy Wilder
 <!-- QUOTE:END -->
 
 ---
