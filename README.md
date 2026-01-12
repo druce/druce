@@ -67,7 +67,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Profanity is the linguistic refuge of the inarticulate motherfucker. - Anonymous
+> Nothing in fine print is ever good news. - Anonymous
 <!-- QUOTE:END -->
 
 ---
