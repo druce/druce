@@ -26,8 +26,6 @@
 
 <img src="https://img.shields.io/badge/-1185FE?style=flat&logo=bluesky&logoColor=white" height="20" style="vertical-align: bottom;" /> [BlueSky](https://bsky.app/profile/druce.ai)
 
-<img src="https://img.shields.io/badge/-006BFF?style=flat&logo=calendly&logoColor=white" height="20" style="vertical-align: bottom;" /> [Book a Meeting](https://calendly.com/drucev)
-
 <img src="https://img.shields.io/badge/-FFA500?style=flat&logo=rss&logoColor=white" height="20" style="vertical-align: bottom;" /> [Daily AI News at Skynet And Chill](https://skynetandchill.druce.ai/)
 
 ## 🛠️ Tech Stack
