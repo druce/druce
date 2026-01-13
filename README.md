@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Nothing in fine print is ever good news. - Anonymous
+> The secret of success in life is for a man to be ready for his opportunity when it comes. - Benjamin Disraeli
 <!-- QUOTE:END -->
 
 ---
