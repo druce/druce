@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> The secret of success in life is for a man to be ready for his opportunity when it comes. - Benjamin Disraeli
+> An ounce of action is worth a ton of theory. - Ralph Waldo Emerson
 <!-- QUOTE:END -->
 
 ---
