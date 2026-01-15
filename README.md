@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> An ounce of action is worth a ton of theory. - Ralph Waldo Emerson
+> Things must change in order that they remain the same. - Anonymous
 <!-- QUOTE:END -->
 
 ---
