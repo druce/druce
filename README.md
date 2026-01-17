@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> A short quiz: If you plan to eat hamburgers throughout your life and are not a cattle producer, should you wish for higher or lower prices for beef? Likewise, if you are going to buy a car from time to time but are not an auto manufacturer, should you prefer higher or lower car prices? These questions, of course, answer themselves...But now for the final exam: If you expect to be a net saver during the next five years, should you hope for a higher or lower stock market during that period? Many investors get this one wrong. Even though they are going to be net buyers of stocks for many years to come, they are elated when stock prices rise and depressed when they fall. In effect, they rejoice because prices have risen for the "hamburgers" they will soon by buying. This reaction makes no sense. Only those who will be sellers of equities in the near future should be happy at seeing stocks rise. Prospective purchasers should much prefer sinking prices. - Warren Buffett
+> An investor should act as though he had a lifetime decision card with just twenty punches on it. - Warren Buffett
 <!-- QUOTE:END -->
 
 ---
