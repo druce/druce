@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> An investor should act as though he had a lifetime decision card with just twenty punches on it. - Warren Buffett
+> If you want to go fast, go alone. If you want to go far, go together. - Anonymous
 <!-- QUOTE:END -->
 
 ---
