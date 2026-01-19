@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> If you want to go fast, go alone. If you want to go far, go together. - Anonymous
+> If I wasn't Bob Dylan, I'd probably think that Bob Dylan has a lot of answers myself. - Bob Dylan
 <!-- QUOTE:END -->
 
 ---
