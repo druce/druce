@@ -65,7 +65,14 @@
 ---
 
 <!-- QUOTE:START -->
-> If I wasn't Bob Dylan, I'd probably think that Bob Dylan has a lot of answers myself. - Bob Dylan
+> Is God willing to prevent evil, but not able?
+> Then he is not omnipotent.
+> Is he able, but not willing?
+> Then he is malevolent.
+> Is he both able and willing?
+> Then whence cometh evil?
+> Is he neither able nor willing?
+> Then why call him God? - Epicurus
 <!-- QUOTE:END -->
 
 ---
