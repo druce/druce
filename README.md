@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> I would remind you that extremism in the defense of liberty is no vice! And let me remind you also that moderation in the pursuit of justice is no virtue! - Barry Goldwater
+> It is not the employer who pays the wages. Employers only handle the money. It is the customer who pays the wages. - Henry Ford
 <!-- QUOTE:END -->
 
 ---
