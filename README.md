@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> It is not the employer who pays the wages. Employers only handle the money. It is the customer who pays the wages. - Henry Ford
+> Believe that life is worth living and your belief will help create the fact. - William James
 <!-- QUOTE:END -->
 
 ---
