@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Believe that life is worth living and your belief will help create the fact. - William James
+> Most people who succeed in the face of seemingly impossible conditions are people who simply don't know how to quit. - Robert H. Schuller
 <!-- QUOTE:END -->
 
 ---
