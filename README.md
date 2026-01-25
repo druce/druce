@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Most people who succeed in the face of seemingly impossible conditions are people who simply don't know how to quit. - Robert H. Schuller
+> The price of hating other human beings is loving oneself less. - Eldridge Cleaver
 <!-- QUOTE:END -->
 
 ---
