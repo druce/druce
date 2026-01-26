@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> The price of hating other human beings is loving oneself less. - Eldridge Cleaver
+> Have you not learned that not stocks or bonds or stately homes, or products of mill or field are our country? It is the splendid thought that is within our minds. - Benjamin Harrison
 <!-- QUOTE:END -->
 
 ---
