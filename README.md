@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Have you not learned that not stocks or bonds or stately homes, or products of mill or field are our country? It is the splendid thought that is within our minds. - Benjamin Harrison
+> A man's ethical behavior should be based effectually on sympathy, education, and social ties; no religious basis is necessary. Man would indeed be in a poor way if he had to be restrained by fear of punishment and hope of reward after death. - Albert Einstein
 <!-- QUOTE:END -->
 
 ---
