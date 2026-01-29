@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> The odds of anyone calling you on the phone with good investment advice are about the same as winning Lotto without buying a ticket. - Joel Greenblatt
+> When you're up to your armpits in alligators it's hard to remember you came here to drain the swamp. - Agnes Repplier
 <!-- QUOTE:END -->
 
 ---
