@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> When you're up to your armpits in alligators it's hard to remember you came here to drain the swamp. - Agnes Repplier
+> I have no color prejudices nor caste prejudices nor creed prejudices. All I care to know is that a man is a human being, and that is enough for me; he can't be any worse. - Mark Twain
 <!-- QUOTE:END -->
 
 ---
