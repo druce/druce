@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> I have no color prejudices nor caste prejudices nor creed prejudices. All I care to know is that a man is a human being, and that is enough for me; he can't be any worse. - Mark Twain
+> Trees don't grow to the sky. - Anonymous
 <!-- QUOTE:END -->
 
 ---
