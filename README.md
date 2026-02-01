@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Trees don't grow to the sky. - Anonymous
+> The only thing necessary for the triumph of evil is for good men to do nothing. - Edmund Burke
 <!-- QUOTE:END -->
 
 ---
