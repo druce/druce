@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> The only thing necessary for the triumph of evil is for good men to do nothing. - Edmund Burke
+> The only easy day was yesterday - USN SEAL HQ motto - Anonymous
 <!-- QUOTE:END -->
 
 ---
