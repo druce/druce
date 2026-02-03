@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> The only easy day was yesterday - USN SEAL HQ motto - Anonymous
+> Affection is responsible for nine-tenths of whatever solid and durable happiness there is in our lives. - C. S. Lewis
 <!-- QUOTE:END -->
 
 ---
