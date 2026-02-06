@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> The market, like, the Lord, helps those who help themselves. But unlike the Lord, the market does not forgive those who know not what they do. - Warren Buffett
+> One person with a belief is equal to ninety-nine who have only interests. - John Stuart Mill
 <!-- QUOTE:END -->
 
 ---
