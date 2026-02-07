@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> One person with a belief is equal to ninety-nine who have only interests. - John Stuart Mill
+> I am a sporting man. I always like to give trains and aeroplanes a fair chance of getting away. - G. K. Chesterton
 <!-- QUOTE:END -->
 
 ---
