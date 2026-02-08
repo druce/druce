@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> I am a sporting man. I always like to give trains and aeroplanes a fair chance of getting away. - G. K. Chesterton
+> Democracy is the art and science of running the circus from the monkey cage. - H. L. Mencken
 <!-- QUOTE:END -->
 
 ---
