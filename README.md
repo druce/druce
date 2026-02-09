@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Democracy is the art and science of running the circus from the monkey cage. - H. L. Mencken
+> Living is easy with eyes closed, misunderstanding all you see. It's getting hard to be someone but it all works out. - Anonymous
 <!-- QUOTE:END -->
 
 ---
