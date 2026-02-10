@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Living is easy with eyes closed, misunderstanding all you see. It's getting hard to be someone but it all works out. - Anonymous
+> Mass follows class. - Anonymous
 <!-- QUOTE:END -->
 
 ---
