@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Mass follows class. - Anonymous
+> Your lives are in the hands of men no smarter than you or I, many of them incompetent boobs. I know this because I've worked alongside them, gone bowling with them, watched them pass me over for promotions time and again. And I say... this stinks! - Homer J. Simpson
 <!-- QUOTE:END -->
 
 ---
