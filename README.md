@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Your lives are in the hands of men no smarter than you or I, many of them incompetent boobs. I know this because I've worked alongside them, gone bowling with them, watched them pass me over for promotions time and again. And I say... this stinks! - Homer J. Simpson
+> Men have a much better time of it than women. For one thing, they marry later; for another thing, they die earlier. - H. L. Mencken
 <!-- QUOTE:END -->
 
 ---
