@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Men have a much better time of it than women. For one thing, they marry later; for another thing, they die earlier. - H. L. Mencken
+> Nothing is more permanent than a temporary solution. - Anonymous
 <!-- QUOTE:END -->
 
 ---
