@@ -65,7 +65,8 @@
 ---
 
 <!-- QUOTE:START -->
-> Nothing is more permanent than a temporary solution. - Anonymous
+> Things are seldom what they seem
+> Skim milk masquerades as cream - Andre Gide
 <!-- QUOTE:END -->
 
 ---
