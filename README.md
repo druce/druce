@@ -65,8 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Things are seldom what they seem
-> Skim milk masquerades as cream - Andre Gide
+> Every man has his own courage, and is betrayed because he seeks in himself the courage of other persons. - Ralph Waldo Emerson
 <!-- QUOTE:END -->
 
 ---
