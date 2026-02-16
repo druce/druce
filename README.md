@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Every man has his own courage, and is betrayed because he seeks in himself the courage of other persons. - Ralph Waldo Emerson
+> Never let the future disturb you. You will meet it if you have to, with the same weapons of reason which today arm you against the present. - Marcus Aurelius
 <!-- QUOTE:END -->
 
 ---
