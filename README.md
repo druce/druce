@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> It's a kind of spiritual snobbery that makes people think they can be happy without money. - Albert Camus
+> What the large print giveth, the fine print taketh away. - Anonymous
 <!-- QUOTE:END -->
 
 ---
