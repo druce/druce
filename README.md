@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> What the large print giveth, the fine print taketh away. - Anonymous
+> Order without liberty and liberty without order are equally destructive. - Theodore Roosevelt
 <!-- QUOTE:END -->
 
 ---
