@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Order without liberty and liberty without order are equally destructive. - Theodore Roosevelt
+> I know God will not give me anything I can't handle. I just wish He didn't trust me so much. - Sara Teasdale
 <!-- QUOTE:END -->
 
 ---
