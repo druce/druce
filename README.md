@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> I know God will not give me anything I can't handle. I just wish He didn't trust me so much. - Sara Teasdale
+> Battles are primarily won in the hearts of men. Men respond to leadership in a most remarkable way and once you have won his heart, he will follow you anywhere. - Vince Lombardi
 <!-- QUOTE:END -->
 
 ---
