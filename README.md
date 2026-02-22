@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Battles are primarily won in the hearts of men. Men respond to leadership in a most remarkable way and once you have won his heart, he will follow you anywhere. - Vince Lombardi
+> Good pitching will always stop good hitting and vice-versa. - Casey Stengel
 <!-- QUOTE:END -->
 
 ---
