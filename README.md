@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Good pitching will always stop good hitting and vice-versa. - Casey Stengel
+> The heart has its reasons, which reason cannot know. - Blaise Pascal
 <!-- QUOTE:END -->
 
 ---
