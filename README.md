@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> The heart has its reasons, which reason cannot know. - Blaise Pascal
+> Every man becomes, to a certain degree, what the people he generally converses with are. -  Robert Motherwell
 <!-- QUOTE:END -->
 
 ---
