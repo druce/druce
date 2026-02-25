@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Every man becomes, to a certain degree, what the people he generally converses with are. -  Robert Motherwell
+> The one great business of law is to make business for itself. - Charles Dickens
 <!-- QUOTE:END -->
 
 ---
