@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> The one great business of law is to make business for itself. - Charles Dickens
+> Hell, there are no rules here - we're trying to accomplish something. - Thomas Alva Edison
 <!-- QUOTE:END -->
 
 ---
