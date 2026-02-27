@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Hell, there are no rules here - we're trying to accomplish something. - Thomas Alva Edison
+> It is the chiefest point of happiness that a man is willing to be what he is. - Desiderius Erasmus
 <!-- QUOTE:END -->
 
 ---
