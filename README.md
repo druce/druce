@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> It is the chiefest point of happiness that a man is willing to be what he is. - Desiderius Erasmus
+> It's not whether you get knocked down, it's whether you get up. - Vince Lombardi
 <!-- QUOTE:END -->
 
 ---
