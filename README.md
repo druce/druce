@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> It's not whether you get knocked down, it's whether you get up. - Vince Lombardi
+> The problem with winning the rat race is you're still a rat. - Lily Tomlin
 <!-- QUOTE:END -->
 
 ---
