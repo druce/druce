@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> The problem with winning the rat race is you're still a rat. - Lily Tomlin
+> Major|Michael|Davis|O'Donnell - Flannery O'Connor
 <!-- QUOTE:END -->
 
 ---
