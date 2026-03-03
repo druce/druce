@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Major|Michael|Davis|O'Donnell - Flannery O'Connor
+> We must accept life for what it actually is - a challenge to our quality without which we should never know of what stuff we are made, or grow to our full stature. - Robert Louis Stevenson
 <!-- QUOTE:END -->
 
 ---
