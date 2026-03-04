@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> We must accept life for what it actually is - a challenge to our quality without which we should never know of what stuff we are made, or grow to our full stature. - Robert Louis Stevenson
+> I have as much authority as the Pope, I just don't have as many people who believe it. - George Carlin
 <!-- QUOTE:END -->
 
 ---
