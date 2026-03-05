@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> I have as much authority as the Pope, I just don't have as many people who believe it. - George Carlin
+> Do not weep; do not wax indignant. Understand. - Baruch Spinoza
 <!-- QUOTE:END -->
 
 ---
