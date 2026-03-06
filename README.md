@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Do not weep; do not wax indignant. Understand. - Baruch Spinoza
+> You don't want to be in the same woods as a wounded bear. - Anonymous
 <!-- QUOTE:END -->
 
 ---
