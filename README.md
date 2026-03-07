@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> You don't want to be in the same woods as a wounded bear. - Anonymous
+> Mud often gives the illusion of depth. - Stanislaw Lem
 <!-- QUOTE:END -->
 
 ---
