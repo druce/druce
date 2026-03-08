@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Mud often gives the illusion of depth. - Stanislaw Lem
+> Nothing great in the world has ever been accomplished without passion. - Georg Wilhelm Friedrich Hegel
 <!-- QUOTE:END -->
 
 ---
