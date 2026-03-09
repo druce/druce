@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Nothing great in the world has ever been accomplished without passion. - Georg Wilhelm Friedrich Hegel
+> You proud men of action are, after all, nothing but unconscious instruments of the men of thought. - Georg Wilhelm Friedrich Hegel
 <!-- QUOTE:END -->
 
 ---
