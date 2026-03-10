@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> You proud men of action are, after all, nothing but unconscious instruments of the men of thought. - Georg Wilhelm Friedrich Hegel
+> If you chase two rabbits, you will not catch either one. - Anonymous
 <!-- QUOTE:END -->
 
 ---
