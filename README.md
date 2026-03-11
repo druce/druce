@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> If you chase two rabbits, you will not catch either one. - Anonymous
+> Dependence begets subservience and venality, suffocates the germ of virtue, and prepares fit tools for the designs of ambition. - Thomas Jefferson
 <!-- QUOTE:END -->
 
 ---
