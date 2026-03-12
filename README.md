@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Dependence begets subservience and venality, suffocates the germ of virtue, and prepares fit tools for the designs of ambition. - Thomas Jefferson
+> The world is not interested in the storms you encountered, but did you bring in the ship? - William McFee
 <!-- QUOTE:END -->
 
 ---
