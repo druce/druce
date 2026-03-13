@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> The world is not interested in the storms you encountered, but did you bring in the ship? - William McFee
+> The best reason why Monarchy is a strong government is, that it is an intelligible government. The mass of mankind understand it, and they hardly anywhere in the world understand any other. - Walter Bagehot
 <!-- QUOTE:END -->
 
 ---
