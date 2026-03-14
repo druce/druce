@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> The best reason why Monarchy is a strong government is, that it is an intelligible government. The mass of mankind understand it, and they hardly anywhere in the world understand any other. - Walter Bagehot
+> Beauty is only skin deep, but in many cases, that's deep enough. - Anonymous
 <!-- QUOTE:END -->
 
 ---
