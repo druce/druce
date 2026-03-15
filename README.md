@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Beauty is only skin deep, but in many cases, that's deep enough. - Anonymous
+> of it is in the telling and about 1
 <!-- QUOTE:END -->
 
 ---
