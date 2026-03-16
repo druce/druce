@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> of it is in the telling and about 1
+> More persons, on the whole, are humbugged by believing nothing, than by believing too much. - P. T. Barnum
 <!-- QUOTE:END -->
 
 ---
