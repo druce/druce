@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> More persons, on the whole, are humbugged by believing nothing, than by believing too much. - P. T. Barnum
+> The man who complains about the way the ball bounces is likely the one who dropped it. - Lou Holtz
 <!-- QUOTE:END -->
 
 ---
