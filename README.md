@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> The man who complains about the way the ball bounces is likely the one who dropped it. - Lou Holtz
+> Some mornings, it's just not worth chewing through the leather straps. - Emo Phillips
 <!-- QUOTE:END -->
 
 ---
