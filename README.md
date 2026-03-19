@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Some mornings, it's just not worth chewing through the leather straps. - Emo Phillips
+> My life has no purpose, no direction, no aim, no meaning, and yet I'm happy. I can't figure it out. What am I doing right? - Charles Schulz
 <!-- QUOTE:END -->
 
 ---
