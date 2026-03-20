@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> My life has no purpose, no direction, no aim, no meaning, and yet I'm happy. I can't figure it out. What am I doing right? - Charles Schulz
+> If you want a picture of the future, imagine a boot stamping on a human face--for ever. - George Orwell
 <!-- QUOTE:END -->
 
 ---
