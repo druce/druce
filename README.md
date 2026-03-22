@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Democracy is the art and science of running the circus from the monkey cage. - H. L. Mencken
+> A hungry man is not a free man. - Adlai E. Stevenson
 <!-- QUOTE:END -->
 
 ---
