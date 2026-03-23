@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> A hungry man is not a free man. - Adlai E. Stevenson
+> You can put wings on a pig, but you don't make it an eagle. - Anonymous
 <!-- QUOTE:END -->
 
 ---
