@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> You can put wings on a pig, but you don't make it an eagle. - Anonymous
+> A verbal contract isn't worth the paper it's written on. - Samuel Goldwyn
 <!-- QUOTE:END -->
 
 ---
