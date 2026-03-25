@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> A verbal contract isn't worth the paper it's written on. - Samuel Goldwyn
+> Sedulously eschew obfuscatory verbosity and prolixity. - Anonymous
 <!-- QUOTE:END -->
 
 ---
