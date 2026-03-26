@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Sedulously eschew obfuscatory verbosity and prolixity. - Anonymous
+> Above all things, reverence yourself. - Pythagoras
 <!-- QUOTE:END -->
 
 ---
