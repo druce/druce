@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Above all things, reverence yourself. - Pythagoras
+> Respect existence, or expect resistance. - Anonymous
 <!-- QUOTE:END -->
 
 ---
