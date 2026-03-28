@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Respect existence, or expect resistance. - Anonymous
+> Proud people breed sad sorrows for themselves - Emily Brontë
 <!-- QUOTE:END -->
 
 ---
