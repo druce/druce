@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Let no sleep fall upon thy eyes till thou hast thrice reviewed the transactions of the past day. Where have I turned aside from rectitude? What have I been doing? What have I left undone, which I ought to have done? Begin thus from the first act, and proceed; and, in conclusion, at the ill which thou hast done, be troubled, and rejoice for the good. - Gautama Siddhartha
+> When action is needed, optimism, even of the mildly delusional variety, may be a good thing. - Daniel Kahneman
 <!-- QUOTE:END -->
 
 ---
