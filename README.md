@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> When action is needed, optimism, even of the mildly delusional variety, may be a good thing. - Daniel Kahneman
+> The opportunities of man are limited only by his imagination. But so few have imagination that there are ten thousand fiddlers to one composer. - Charles Kettering
 <!-- QUOTE:END -->
 
 ---
