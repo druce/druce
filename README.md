@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> The opportunities of man are limited only by his imagination. But so few have imagination that there are ten thousand fiddlers to one composer. - Charles Kettering
+> I was Snow White, but I drifted. - Mae West
 <!-- QUOTE:END -->
 
 ---
