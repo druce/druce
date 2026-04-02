@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> I was Snow White, but I drifted. - Mae West
+> Beware the barrenness of a busy life. - Socrates
 <!-- QUOTE:END -->
 
 ---
