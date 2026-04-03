@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Beware the barrenness of a busy life. - Socrates
+> It does not matter whether the cat is black or white, only that it catches mice. - Deng Xiaoping
 <!-- QUOTE:END -->
 
 ---
