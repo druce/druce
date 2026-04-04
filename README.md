@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> It does not matter whether the cat is black or white, only that it catches mice. - Deng Xiaoping
+> The market's not a very accomodating machine. It won't provide high returns just because you need them. - Peter Bernstein
 <!-- QUOTE:END -->
 
 ---
