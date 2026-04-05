@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> The market's not a very accomodating machine. It won't provide high returns just because you need them. - Peter Bernstein
+> Profits, like sausages... are esteemed most by those who know least about what goes into them. - Alvin Toffler
 <!-- QUOTE:END -->
 
 ---
