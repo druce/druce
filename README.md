@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Profits, like sausages... are esteemed most by those who know least about what goes into them. - Alvin Toffler
+> To plunder, to slaughter, to steal, these things they misname empire; and where they make a wilderness, they call it peace. - Tacitus
 <!-- QUOTE:END -->
 
 ---
