@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> To plunder, to slaughter, to steal, these things they misname empire; and where they make a wilderness, they call it peace. - Tacitus
+> As you begin changing your thinking, start immediately to change your behavior. Begin to act the part of the person you would like to become. Take action on your behavior. Too many people want to feel, then take action. This never works. - John Maxwell
 <!-- QUOTE:END -->
 
 ---
