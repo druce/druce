@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> As you begin changing your thinking, start immediately to change your behavior. Begin to act the part of the person you would like to become. Take action on your behavior. Too many people want to feel, then take action. This never works. - John Maxwell
+> He was wont to say that if he had read as much as other men he should have known no more than other men. - Isaac Asimov
 <!-- QUOTE:END -->
 
 ---
