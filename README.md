@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> We think very little of time present; we anticipate the future, as being too slow, and with a view to hasten it onward, we recall the past to stay it as too swiftly gone. We are so thoughtless, that we thus wander through the hours which are not here, regardless only of the moment that is actually our own. - Blaise Pascal
+> Old age comes on suddenly, and not gradually as is thought. - Emily Dickinson
 <!-- QUOTE:END -->
 
 ---
