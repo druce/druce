@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Old age comes on suddenly, and not gradually as is thought. - Emily Dickinson
+> I do not know how to teach philosophy without becoming a disturber of established religion. - Baruch Spinoza
 <!-- QUOTE:END -->
 
 ---
