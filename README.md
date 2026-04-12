@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> I do not know how to teach philosophy without becoming a disturber of established religion. - Baruch Spinoza
+> Before you criticize someone, you should walk a mile in their shoes. That way, when you criticize them you are a mile away... and you have their shoes. - Al Franken
 <!-- QUOTE:END -->
 
 ---
