@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Before you criticize someone, you should walk a mile in their shoes. That way, when you criticize them you are a mile away... and you have their shoes. - Al Franken
+> The message that 'love' will solve all of our problems is repeated incessantly in contemporary culture - it would be closer to the truth to say that love is a contagious and virulent disease which leaves a victim in a state of near imbecility, paralysis, profound melancholia and sometimes culminates in death. - Quentin Crisp
 <!-- QUOTE:END -->
 
 ---
