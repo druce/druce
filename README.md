@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> The message that 'love' will solve all of our problems is repeated incessantly in contemporary culture - it would be closer to the truth to say that love is a contagious and virulent disease which leaves a victim in a state of near imbecility, paralysis, profound melancholia and sometimes culminates in death. - Quentin Crisp
+> I ain't what I used to be, but who the hell is? - Dizzy Dean
 <!-- QUOTE:END -->
 
 ---
