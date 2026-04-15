@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> I ain't what I used to be, but who the hell is? - Dizzy Dean
+> Public opinion is a weak tyrant compared with our own private opinion. What a man thinks of himself, that is which determines, or rather indicates, his fate. - Henry David Thoreau
 <!-- QUOTE:END -->
 
 ---
