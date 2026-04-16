@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Public opinion is a weak tyrant compared with our own private opinion. What a man thinks of himself, that is which determines, or rather indicates, his fate. - Henry David Thoreau
+> An economist never had to meet a payroll. - Anonymous
 <!-- QUOTE:END -->
 
 ---
