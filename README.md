@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> An economist never had to meet a payroll. - Anonymous
+> On life's vast ocean diversely we sail. Reason's the card, but passion the gale.  - Alexander Pope
 <!-- QUOTE:END -->
 
 ---
