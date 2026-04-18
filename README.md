@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> On life's vast ocean diversely we sail. Reason's the card, but passion the gale.  - Alexander Pope
+> Time wounds all heels. - Anonymous
 <!-- QUOTE:END -->
 
 ---
