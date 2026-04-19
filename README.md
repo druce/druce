@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Time wounds all heels. - Anonymous
+> Only you have ever understood me...And you got it wrong.|Last words, to his star student|0| - Georg Wilhelm Friedrich Hegel
 <!-- QUOTE:END -->
 
 ---
