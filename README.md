@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Only you have ever understood me...And you got it wrong.|Last words, to his star student|0| - Georg Wilhelm Friedrich Hegel
+> All our lauded technological progress -- our very civilization - is like the axe in the hand of the pathological criminal. - Albert Einstein
 <!-- QUOTE:END -->
 
 ---
