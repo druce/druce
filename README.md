@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> All our lauded technological progress -- our very civilization - is like the axe in the hand of the pathological criminal. - Albert Einstein
+> I found it's not good to talk about my troubles. Eighty percent of the people don't care, and the other twenty percent are glad you're having trouble. - Tommy Lasorda
 <!-- QUOTE:END -->
 
 ---
