@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> I found it's not good to talk about my troubles. Eighty percent of the people don't care, and the other twenty percent are glad you're having trouble. - Tommy Lasorda
+> A guru is someone who is lucky enough to be quoted in the right publication at the right time saying the right thing. - Herb Greenberg
 <!-- QUOTE:END -->
 
 ---
