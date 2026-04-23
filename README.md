@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> A guru is someone who is lucky enough to be quoted in the right publication at the right time saying the right thing. - Herb Greenberg
+> Under controlled conditions of light, temperature, humidity, and nutrition, the organism will do as it damn well pleases. - Larry Wall
 <!-- QUOTE:END -->
 
 ---
