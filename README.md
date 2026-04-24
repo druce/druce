@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Under controlled conditions of light, temperature, humidity, and nutrition, the organism will do as it damn well pleases. - Larry Wall
+> He that cannot forgive others breaks the bridge over which he must pass himself; for every man has need to be forgiven. - Thomas Fuller
 <!-- QUOTE:END -->
 
 ---
