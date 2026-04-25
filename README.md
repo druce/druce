@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> He that cannot forgive others breaks the bridge over which he must pass himself; for every man has need to be forgiven. - Thomas Fuller
+> Don't fight the Fed. - Anonymous
 <!-- QUOTE:END -->
 
 ---
