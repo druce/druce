@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Don't fight the Fed. - Anonymous
+> Misfortune awaits those who presume to believe that the future is revealed to them. - John Kenneth Galbraith
 <!-- QUOTE:END -->
 
 ---
