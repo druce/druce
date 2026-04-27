@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Misfortune awaits those who presume to believe that the future is revealed to them. - John Kenneth Galbraith
+> There's only one corner of the universe you can be certain of improving, and that's your own self. - Aldous Huxley
 <!-- QUOTE:END -->
 
 ---
