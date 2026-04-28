@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> There's only one corner of the universe you can be certain of improving, and that's your own self. - Aldous Huxley
+> A government big enough to give you everything you want is a government big enough to take from you everything you have. - Gerald R. Ford
 <!-- QUOTE:END -->
 
 ---
