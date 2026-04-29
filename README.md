@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> A government big enough to give you everything you want is a government big enough to take from you everything you have. - Gerald R. Ford
+> A person who doubts himself is like a man who would enlist in the ranks of his enemies and bear arms against himself. He makes his failure certain by himself being the first person to be convinced of it. - Alexandre Dumas
 <!-- QUOTE:END -->
 
 ---
