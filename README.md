@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> A person who doubts himself is like a man who would enlist in the ranks of his enemies and bear arms against himself. He makes his failure certain by himself being the first person to be convinced of it. - Alexandre Dumas
+> The uniform, constant and uninterrupted effort of every man to better his condition, the principle from which public and national, as well as private opulence is originally derived, is frequently powerful enough to maintain the natural progress of things toward improvement, in spite both of the extravagance of government, and of the greatest errors of administration. Like the unknown principle of animal life, it frequently restores health and vigour to the constitution, in spite, not only of the disease, but of the absurd prescriptions of the doctor. - Adam Smith
 <!-- QUOTE:END -->
 
 ---
