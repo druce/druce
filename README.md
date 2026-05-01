@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> The uniform, constant and uninterrupted effort of every man to better his condition, the principle from which public and national, as well as private opulence is originally derived, is frequently powerful enough to maintain the natural progress of things toward improvement, in spite both of the extravagance of government, and of the greatest errors of administration. Like the unknown principle of animal life, it frequently restores health and vigour to the constitution, in spite, not only of the disease, but of the absurd prescriptions of the doctor. - Adam Smith
+> The essence of the liberal outlook lies not in what opinions are held but in how they are held: Instead of being held dogmatically they are held tentatively, and with a consciousness that new evidence may at any moment lead to their abandonment. - Bertrand Russell
 <!-- QUOTE:END -->
 
 ---
