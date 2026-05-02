@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> The essence of the liberal outlook lies not in what opinions are held but in how they are held: Instead of being held dogmatically they are held tentatively, and with a consciousness that new evidence may at any moment lead to their abandonment. - Bertrand Russell
+> Man has an infinite capacity for self-rationalization. - Sigmund Freud
 <!-- QUOTE:END -->
 
 ---
