@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Man has an infinite capacity for self-rationalization. - Sigmund Freud
+> It doesn't matter so much how you got here, as what you do after you arrive. - Lois McMaster Bujold
 <!-- QUOTE:END -->
 
 ---
