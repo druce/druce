@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> It doesn't matter so much how you got here, as what you do after you arrive. - Lois McMaster Bujold
+> The United States was founded by the brightest people in the country - and we haven't seen them since. - Gore Vidal
 <!-- QUOTE:END -->
 
 ---
