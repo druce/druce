@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> The United States was founded by the brightest people in the country - and we haven't seen them since. - Gore Vidal
+> You can't get anything clean without getting something else dirty. - Anonymous
 <!-- QUOTE:END -->
 
 ---
