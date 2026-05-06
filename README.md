@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> You can't get anything clean without getting something else dirty. - Anonymous
+> If you risk nothing, you risk everything. - Anonymous
 <!-- QUOTE:END -->
 
 ---
