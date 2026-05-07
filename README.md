@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> If you risk nothing, you risk everything. - Anonymous
+> To fight and conquer in all our battles is not supreme excellence; supreme excellence consists in breaking the enemy's resistance without fighting. - Sun Tzu
 <!-- QUOTE:END -->
 
 ---
