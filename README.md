@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> To fight and conquer in all our battles is not supreme excellence; supreme excellence consists in breaking the enemy's resistance without fighting. - Sun Tzu
+> All wealth is the product of labor. - John Locke
 <!-- QUOTE:END -->
 
 ---
