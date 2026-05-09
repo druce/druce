@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> All wealth is the product of labor. - John Locke
+> He who has so little knowledge of human nature as to seek happiness by changing anything but his own disposition will waste his life in fruitless efforts. - Samuel Johnson
 <!-- QUOTE:END -->
 
 ---
