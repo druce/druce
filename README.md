@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> He who has so little knowledge of human nature as to seek happiness by changing anything but his own disposition will waste his life in fruitless efforts. - Samuel Johnson
+> I'll play it first and tell you what it is later. - Miles Davis
 <!-- QUOTE:END -->
 
 ---
