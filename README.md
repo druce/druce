@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> I'll play it first and tell you what it is later. - Miles Davis
+> To dare is to lose one's footing momentarily. Not to dare is to lose oneself permanently. - Soren Kierkegaard
 <!-- QUOTE:END -->
 
 ---
