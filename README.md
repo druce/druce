@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> To dare is to lose one's footing momentarily. Not to dare is to lose oneself permanently. - Soren Kierkegaard
+> There are three classes of people: those who see, those who see when they are shown, those who do not see. - Leonardo da Vinci
 <!-- QUOTE:END -->
 
 ---
