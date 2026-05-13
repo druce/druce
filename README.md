@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> There are three classes of people: those who see, those who see when they are shown, those who do not see. - Leonardo da Vinci
+> Life is like riding a bicycle. To keep your balance you must keep moving. - Albert Einstein
 <!-- QUOTE:END -->
 
 ---
