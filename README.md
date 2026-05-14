@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Life is like riding a bicycle. To keep your balance you must keep moving. - Albert Einstein
+> Riches get their value from the mind of the possessor; they are blessings to those who know how to use them, and curses to those who do not. - Terence
 <!-- QUOTE:END -->
 
 ---
