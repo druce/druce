@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Riches get their value from the mind of the possessor; they are blessings to those who know how to use them, and curses to those who do not. - Terence
+> According to the system of natural liberty, the sovereign has only three duties to attend to ... first, the duty of protecting the society from the violence and invasion of other independent societies; secondly, the duty of protecting, so far as possible, every member of the society from the injustice or oppression of every other member of it, or the duty of establishing an exact administration of justice, and thirdly, the duty of erecting and maintaining certain public works and certain public institutions, which it can never be for the interest of any individual, or small number of individuals, to erect and maintain. - Adam Smith
 <!-- QUOTE:END -->
 
 ---
