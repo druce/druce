@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Take care of the minutes, for the hours will take care of themselves. - Anton Chekhov
+> Every man takes the limits of his own field of vision for the limits of the world. - Artur Schopenhauer
 <!-- QUOTE:END -->
 
 ---
