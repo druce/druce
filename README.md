@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Every man takes the limits of his own field of vision for the limits of the world. - Artur Schopenhauer
+> There ain't no answer. There ain't gonna be any answer. There never has been an answer. That's the answer. - Gertrude Stein
 <!-- QUOTE:END -->
 
 ---
