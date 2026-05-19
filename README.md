@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> There ain't no answer. There ain't gonna be any answer. There never has been an answer. That's the answer. - Gertrude Stein
+> The impediment to action advances action. What stands in the way becomes the way. - Marcus Aurelius
 <!-- QUOTE:END -->
 
 ---
