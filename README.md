@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> The impediment to action advances action. What stands in the way becomes the way. - Marcus Aurelius
+> There is more simplicity in the man who eats caviar on impulse than in the man who eats grapenuts on principle. - George Bernard Shaw
 <!-- QUOTE:END -->
 
 ---
