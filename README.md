@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> There is more simplicity in the man who eats caviar on impulse than in the man who eats grapenuts on principle. - George Bernard Shaw
+> Holding on to anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned. - Gautama Siddhartha
 <!-- QUOTE:END -->
 
 ---
