@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Never is there just one cockroach in the kitchen. - Warren Buffett
+> Your successes and happiness are forgiven you only if you generously consent to share them. - Albert Camus
 <!-- QUOTE:END -->
 
 ---
