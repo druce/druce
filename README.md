@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Your successes and happiness are forgiven you only if you generously consent to share them. - Albert Camus
+> The difference between 'involvement' and 'commitment' is like an eggs-and-ham breakfast: the chicken was 'involved' - the pig was 'committed.' - Anonymous
 <!-- QUOTE:END -->
 
 ---
