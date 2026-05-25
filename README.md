@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> The difference between 'involvement' and 'commitment' is like an eggs-and-ham breakfast: the chicken was 'involved' - the pig was 'committed.' - Anonymous
+> Whereof one cannot speak, thereof one must be silent. - Ludwig Wittgenstein
 <!-- QUOTE:END -->
 
 ---
