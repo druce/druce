@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Whereof one cannot speak, thereof one must be silent. - Ludwig Wittgenstein
+> The architect must be a prophet... a prophet in the true sense of the term... if he can't see at least ten years ahead don't call him an architect. - Frank Lloyd Wright
 <!-- QUOTE:END -->
 
 ---
