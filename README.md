@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> The architect must be a prophet... a prophet in the true sense of the term... if he can't see at least ten years ahead don't call him an architect. - Frank Lloyd Wright
+> If you can't drink a lobbyist's whiskey, take his money, sleep with his women and still vote against him in the morning, you don't belong in politics.
 <!-- QUOTE:END -->
 
 ---
