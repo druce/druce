@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> If you can't drink a lobbyist's whiskey, take his money, sleep with his women and still vote against him in the morning, you don't belong in politics.
+> The world is not interested in the storms you encountered, but did you bring in the ship? - William McFee
 <!-- QUOTE:END -->
 
 ---
