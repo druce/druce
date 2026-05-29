@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> The world is not interested in the storms you encountered, but did you bring in the ship? - William McFee
+> If it is man's privilege to be independent, it is equally his duty to be inter-dependent. - Mohandas K. Gandhi
 <!-- QUOTE:END -->
 
 ---
