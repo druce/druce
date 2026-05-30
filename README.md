@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> If it is man's privilege to be independent, it is equally his duty to be inter-dependent. - Mohandas K. Gandhi
+> Trade curses every thing it handles; and though you trade in messages from heaven, the whole curse of trade attaches to the business. - Henry David Thoreau
 <!-- QUOTE:END -->
 
 ---
