@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Trade curses every thing it handles; and though you trade in messages from heaven, the whole curse of trade attaches to the business. - Henry David Thoreau
+> It's the movies that have really been running things in America ever since they were invented. They show you what to do, how to do it, when to do it, how to feel about it, and how to show how you feel about it. Everybody has their own America, and then they have the pieces of a fantasy America that they think is out there but they can't see. - Andy Warhol
 <!-- QUOTE:END -->
 
 ---
