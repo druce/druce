@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> In the long run we are all dead. - John Maynard Keynes
+> The best doctor is the one you run to and can't find. - Denis Diderot
 <!-- QUOTE:END -->
 
 ---
