@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> The best doctor is the one you run to and can't find. - Denis Diderot
+> The meek shall inherit the Earth, but not its mineral rights. - J. Paul Getty
 <!-- QUOTE:END -->
 
 ---
