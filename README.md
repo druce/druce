@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> You cannot be lonely if you like the person you're alone with. - Wayne W. Dyer
+> Never marry a man you wouldn't want to be divorced from. - Nora Ephron
 <!-- QUOTE:END -->
 
 ---
