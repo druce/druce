@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Never marry a man you wouldn't want to be divorced from. - Nora Ephron
+> When you're riding ahead of the herd, every so often you have to look back and make sure they're still there. - Anonymous
 <!-- QUOTE:END -->
 
 ---
