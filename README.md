@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> When you're riding ahead of the herd, every so often you have to look back and make sure they're still there. - Anonymous
+> If you want to view paradise, simply look around and view it. - Willy Wonka
 <!-- QUOTE:END -->
 
 ---
