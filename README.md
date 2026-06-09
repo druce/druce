@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> If you want to view paradise, simply look around and view it. - Willy Wonka
+> It is hard to believe that a man is telling the truth when you know that you would lie if you were in his place. - H. L. Mencken
 <!-- QUOTE:END -->
 
 ---
