@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> It is hard to believe that a man is telling the truth when you know that you would lie if you were in his place. - H. L. Mencken
+> The very powerful and the very stupid have one thing in common. Instead of altering their views to fit the facts, they alter the facts to fit their views... which can be very uncomfortable if you happen to be one of the facts that needs altering. - Dr.  Who
 <!-- QUOTE:END -->
 
 ---
