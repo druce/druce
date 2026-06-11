@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> The very powerful and the very stupid have one thing in common. Instead of altering their views to fit the facts, they alter the facts to fit their views... which can be very uncomfortable if you happen to be one of the facts that needs altering. - Dr.  Who
+> In America, through pressure of conformity, there is freedom of choice, but nothing to choose from. - Peter Ustinov
 <!-- QUOTE:END -->
 
 ---
