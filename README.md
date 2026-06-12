@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> In America, through pressure of conformity, there is freedom of choice, but nothing to choose from. - Peter Ustinov
+> Affection is responsible for nine-tenths of whatever solid and durable happiness there is in our lives. - C. S. Lewis
 <!-- QUOTE:END -->
 
 ---
