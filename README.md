@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Affection is responsible for nine-tenths of whatever solid and durable happiness there is in our lives. - C. S. Lewis
+> Wise men talk because they have something to say; fools, because they have to say something. - Plato
 <!-- QUOTE:END -->
 
 ---
