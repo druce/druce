@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Wise men talk because they have something to say; fools, because they have to say something. - Plato
+> The best augury of a man's success in his profession is that he thinks it is the finest in the world. - George Eliot
 <!-- QUOTE:END -->
 
 ---
