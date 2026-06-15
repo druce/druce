@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> The best augury of a man's success in his profession is that he thinks it is the finest in the world. - George Eliot
+> below your worst case expectation. - Anonymous
 <!-- QUOTE:END -->
 
 ---
