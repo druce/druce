@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> below your worst case expectation. - Anonymous
+> The more efficient a force is the more silent and the more subtle it is. - Mohandas K. Gandhi
 <!-- QUOTE:END -->
 
 ---
