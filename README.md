@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> The sense of security more frequently springs from habit than from conviction, and for this reason it often subsists after such a change in the conditions as might have been expected to suggest alarm. The lapse of time during which a given event has not happened is, in this logic of habit, constantly alleged as a reason why the event should never happen, even when the lapse of time is precisely the added condition which makes the event imminent. - George Eliot
+> Eat a live toad the first thing in the morning and nothing worse will happen to you the rest of the day. - Anonymous
 <!-- QUOTE:END -->
 
 ---
