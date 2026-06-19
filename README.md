@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Eat a live toad the first thing in the morning and nothing worse will happen to you the rest of the day. - Anonymous
+> The difference between the men and the boys is, and always has been, that the boys want to be something, while the men want to do something. - Eric Sevareid
 <!-- QUOTE:END -->
 
 ---
