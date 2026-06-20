@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> The difference between the men and the boys is, and always has been, that the boys want to be something, while the men want to do something. - Eric Sevareid
+> Just as appetite comes by eating, so work brings inspiration, if inspiration is not discernible at the beginning. - Igor Stravinsky
 <!-- QUOTE:END -->
 
 ---
