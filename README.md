@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Just as appetite comes by eating, so work brings inspiration, if inspiration is not discernible at the beginning. - Igor Stravinsky
+> Don't fry bacon naked. - Anonymous
 <!-- QUOTE:END -->
 
 ---
