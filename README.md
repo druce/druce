@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Don't fry bacon naked. - Anonymous
+> A man of eighty has outlived probably three new schools of painting, two of architecture and poetry and a hundred in dress. - Richard Burton
 <!-- QUOTE:END -->
 
 ---
