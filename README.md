@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> A man of eighty has outlived probably three new schools of painting, two of architecture and poetry and a hundred in dress. - Richard Burton
+> You don't want to be in the same woods as a wounded bear. - Anonymous
 <!-- QUOTE:END -->
 
 ---
