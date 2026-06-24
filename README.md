@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> You don't want to be in the same woods as a wounded bear. - Anonymous
+> Never call on intuition. It calls on you. - Anonymous
 <!-- QUOTE:END -->
 
 ---
