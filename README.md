@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Never call on intuition. It calls on you. - Anonymous
+> There are charms made only for distant admiration. - Samuel Johnson
 <!-- QUOTE:END -->
 
 ---
