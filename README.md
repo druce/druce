@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> There are charms made only for distant admiration. - Samuel Johnson
+> Idealism is the noble toga that political gentlemen drape over their will to power. - Aldous Huxley
 <!-- QUOTE:END -->
 
 ---
