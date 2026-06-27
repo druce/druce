@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Idealism is the noble toga that political gentlemen drape over their will to power. - Aldous Huxley
+> More than any time in history mankind faces a crossroads. One path leads to despair and utter hopelessness, the other to total extinction. Let us pray that we have the wisdom to choose correctly. - Woody Allen
 <!-- QUOTE:END -->
 
 ---
