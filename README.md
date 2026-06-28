@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> More than any time in history mankind faces a crossroads. One path leads to despair and utter hopelessness, the other to total extinction. Let us pray that we have the wisdom to choose correctly. - Woody Allen
+> Pyramiding instructions appear on dollar bills. Add smaller and smaller amounts on the way up. Keep your eye open at the top. - Ed Seykota
 <!-- QUOTE:END -->
 
 ---
