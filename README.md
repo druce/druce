@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Pyramiding instructions appear on dollar bills. Add smaller and smaller amounts on the way up. Keep your eye open at the top. - Ed Seykota
+> Life is extinct on other planets because their scientists were more advanced than ours. - John Fitzgerald Kennedy
 <!-- QUOTE:END -->
 
 ---
