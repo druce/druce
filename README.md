@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Life is extinct on other planets because their scientists were more advanced than ours. - John Fitzgerald Kennedy
+> When one subtracts from life infancy (which is vegetation), sleep, eating and swilling, buttoning and unbuttoning - how much remains of downright existence? The summer of a dormouse. - Richard Burton
 <!-- QUOTE:END -->
 
 ---
