@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> When one subtracts from life infancy (which is vegetation), sleep, eating and swilling, buttoning and unbuttoning - how much remains of downright existence? The summer of a dormouse. - Richard Burton
+> The strength of politicians' convictions are inversely proportional to their proximity to power. - Anonymous
 <!-- QUOTE:END -->
 
 ---
