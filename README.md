@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> The strength of politicians' convictions are inversely proportional to their proximity to power. - Anonymous
+> I would rather be able to appreciate things I can not have than to have things I am not able to appreciate. - Elbert Hubbard
 <!-- QUOTE:END -->
 
 ---
