@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> I would rather be able to appreciate things I can not have than to have things I am not able to appreciate. - Elbert Hubbard
+> We should call every truth false which was not accompanied by at least one laugh. - Friedrich Nietzsche
 <!-- QUOTE:END -->
 
 ---
