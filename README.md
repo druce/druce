@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> We should call every truth false which was not accompanied by at least one laugh. - Friedrich Nietzsche
+> Fat, drunk, and stupid is no way to go through life, son. - Anonymous
 <!-- QUOTE:END -->
 
 ---
