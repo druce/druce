@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Fat, drunk, and stupid is no way to go through life, son. - Anonymous
+> To him who is in fear everything rustles. - Socrates
 <!-- QUOTE:END -->
 
 ---
