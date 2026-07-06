@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> To him who is in fear everything rustles. - Socrates
+> Human beings have an almost infinite capacity for taking things for granted. - Aldous Huxley
 <!-- QUOTE:END -->
 
 ---
