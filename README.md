@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Human beings have an almost infinite capacity for taking things for granted. - Aldous Huxley
+> Worldly wisdom teaches that it is better for reputation to fail conventionally than to succeed unconventionally. - John Maynard Keynes
 <!-- QUOTE:END -->
 
 ---
