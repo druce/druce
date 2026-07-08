@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Worldly wisdom teaches that it is better for reputation to fail conventionally than to succeed unconventionally. - John Maynard Keynes
+> You won't learn to hold your own in the world by standing on guard, but by attacking and getting well hammered yourself. - George Bernard Shaw
 <!-- QUOTE:END -->
 
 ---
