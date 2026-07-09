@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> You won't learn to hold your own in the world by standing on guard, but by attacking and getting well hammered yourself. - George Bernard Shaw
+> How little do my countrymen know what precious blessings they are in possession of and which no other people on earth enjoy. - Thomas Jefferson
 <!-- QUOTE:END -->
 
 ---
