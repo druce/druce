@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> How little do my countrymen know what precious blessings they are in possession of and which no other people on earth enjoy. - Thomas Jefferson
+> I don't want any yes-men around me. I want everybody to tell me the truth even if it costs them their job. - Samuel Goldwyn
 <!-- QUOTE:END -->
 
 ---
