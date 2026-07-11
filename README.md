@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> I don't want any yes-men around me. I want everybody to tell me the truth even if it costs them their job. - Samuel Goldwyn
+> There are three types of baseball players: those who make it happen, those who see it happen, and those who ask, "what happened?". - Tommy Lasorda
 <!-- QUOTE:END -->
 
 ---
