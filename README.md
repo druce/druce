@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> There are three types of baseball players: those who make it happen, those who see it happen, and those who ask, "what happened?". - Tommy Lasorda
+> People assign much higher probability to the truth of their opinions than is warranted. - Daniel Kahneman
 <!-- QUOTE:END -->
 
 ---
