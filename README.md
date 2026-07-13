@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> People assign much higher probability to the truth of their opinions than is warranted. - Daniel Kahneman
+> Victory has a thousand fathers but defeat is an orphan. - John Fitzgerald Kennedy
 <!-- QUOTE:END -->
 
 ---
