@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Victory has a thousand fathers but defeat is an orphan. - John Fitzgerald Kennedy
+> Our greatest glory consists not in never failing, but in rising every time we fall. - Oliver Goldsmith
 <!-- QUOTE:END -->
 
 ---
