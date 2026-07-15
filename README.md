@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Our greatest glory consists not in never failing, but in rising every time we fall. - Oliver Goldsmith
+> He was wont to say that if he had read as much as other men he should have known no more than other men. - Isaac Asimov
 <!-- QUOTE:END -->
 
 ---
