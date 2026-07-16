@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> He was wont to say that if he had read as much as other men he should have known no more than other men. - Isaac Asimov
+> America is still a frontier country that almost shudders at the idea of creative expression. - James A. Michener
 <!-- QUOTE:END -->
 
 ---
