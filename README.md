@@ -65,7 +65,13 @@
 ---
 
 <!-- QUOTE:START -->
-> America is still a frontier country that almost shudders at the idea of creative expression. - James A. Michener
+> There is a road
+> No simple highway
+> Between the dawn 
+> and the dark of night, 
+> and if you go
+> no one may follow
+> that path is for your steps alone - Jerry Garcia
 <!-- QUOTE:END -->
 
 ---
