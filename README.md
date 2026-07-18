@@ -65,13 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> There is a road
-> No simple highway
-> Between the dawn 
-> and the dark of night, 
-> and if you go
-> no one may follow
-> that path is for your steps alone - Jerry Garcia
+> The stock market is an index of how investors feel about the future, not the present. In other words, it is a barometer, not a thermometer. - John Train
 <!-- QUOTE:END -->
 
 ---
