@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> The stock market is an index of how investors feel about the future, not the present. In other words, it is a barometer, not a thermometer. - John Train
+> The term "institutional investor" is becoming one of those self-contradictions called an oxymoron, comparable to "jumbo shrimp," "lady mudwrestler," and "inexpensive lawyer." - Warren Buffett
 <!-- QUOTE:END -->
 
 ---
