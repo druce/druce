@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> The term "institutional investor" is becoming one of those self-contradictions called an oxymoron, comparable to "jumbo shrimp," "lady mudwrestler," and "inexpensive lawyer." - Warren Buffett
+> I like the dog. If he can't eat it, or fuck it, he pisses on it. I can get behind that. - Anonymous
 <!-- QUOTE:END -->
 
 ---
