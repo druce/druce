@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> I like the dog. If he can't eat it, or fuck it, he pisses on it. I can get behind that. - Anonymous
+> Punishment is now unfashionable... because it creates moral distinctions among men, which, to the democratic mind, are odious. We prefer a meaningless collective guilt to a meaningful individual responsibility. - Thomas Szasz
 <!-- QUOTE:END -->
 
 ---
