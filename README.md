@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Punishment is now unfashionable... because it creates moral distinctions among men, which, to the democratic mind, are odious. We prefer a meaningless collective guilt to a meaningful individual responsibility. - Thomas Szasz
+> Faced with the choice between changing one's mind and proving that there is no need to do so, almost everyone gets busy on the proof. - John Kenneth Galbraith
 <!-- QUOTE:END -->
 
 ---
