@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Faced with the choice between changing one's mind and proving that there is no need to do so, almost everyone gets busy on the proof. - John Kenneth Galbraith
+> Next to a battle lost, the deepest misery is a battle gained. - The Duke of Wellington
 <!-- QUOTE:END -->
 
 ---
