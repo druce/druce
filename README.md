@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Next to a battle lost, the deepest misery is a battle gained. - The Duke of Wellington
+> Only those who attempt the absurd will achieve the impossible. I think it's in my basement... let me go upstairs and check. - M. C. Escher
 <!-- QUOTE:END -->
 
 ---
