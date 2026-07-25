@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Only those who attempt the absurd will achieve the impossible. I think it's in my basement... let me go upstairs and check. - M. C. Escher
+> You never know what worse luck your bad luck has saved you from. - Cormac McCarthy
 <!-- QUOTE:END -->
 
 ---
