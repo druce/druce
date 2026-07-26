@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> You never know what worse luck your bad luck has saved you from. - Cormac McCarthy
+> What we hope ever to do with ease, we must learn first to do with diligence. - Samuel Johnson
 <!-- QUOTE:END -->
 
 ---
