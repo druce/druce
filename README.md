@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> What we hope ever to do with ease, we must learn first to do with diligence. - Samuel Johnson
+> The original of all great and lasting societies consisted not in the mutual good will men had toward each other, but in the mutual fear they had of each other. - Thomas Hobbes
 <!-- QUOTE:END -->
 
 ---
