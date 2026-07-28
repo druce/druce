@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> The original of all great and lasting societies consisted not in the mutual good will men had toward each other, but in the mutual fear they had of each other. - Thomas Hobbes
+> If we're not happy owning a piece of that business with the Exchange closed, we're not happy owning it with the Exchange open. - Warren Buffett
 <!-- QUOTE:END -->
 
 ---
