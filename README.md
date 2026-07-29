@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> If we're not happy owning a piece of that business with the Exchange closed, we're not happy owning it with the Exchange open. - Warren Buffett
+> What can we gain by sailing to the moon if we are not able to cross the abyss that separates us from ourselves? This is the most important of all voyages of discovery, and without it, all the rest are not only useless, but disastrous. - Thomas Merton
 <!-- QUOTE:END -->
 
 ---
