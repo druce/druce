@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> What can we gain by sailing to the moon if we are not able to cross the abyss that separates us from ourselves? This is the most important of all voyages of discovery, and without it, all the rest are not only useless, but disastrous. - Thomas Merton
+> In the beginning there was nothing, then God said " Let there be light".  And there was light. There was still nothing, but you could see it a lot better. - Anonymous
 <!-- QUOTE:END -->
 
 ---
