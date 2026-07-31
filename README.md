@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> In the beginning there was nothing, then God said " Let there be light".  And there was light. There was still nothing, but you could see it a lot better. - Anonymous
+> Worldly wisdom teaches that it is better for reputation to fail conventionally than to succeed unconventionally. - John Maynard Keynes
 <!-- QUOTE:END -->
 
 ---
