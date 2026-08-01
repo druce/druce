@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Worldly wisdom teaches that it is better for reputation to fail conventionally than to succeed unconventionally. - John Maynard Keynes
+> Never think that you're not good enough yourself. A man should never think that. In life people will take you at your own reckoning. - Isaac Asimov
 <!-- QUOTE:END -->
 
 ---
