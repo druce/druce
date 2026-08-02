@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Never think that you're not good enough yourself. A man should never think that. In life people will take you at your own reckoning. - Isaac Asimov
+> Of the blessings set before you make your choice, and be content. - Samuel Johnson
 <!-- QUOTE:END -->
 
 ---
