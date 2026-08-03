@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Of the blessings set before you make your choice, and be content. - Samuel Johnson
+> There are many victories worse than a defeat. - George Eliot
 <!-- QUOTE:END -->
 
 ---
