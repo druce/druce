@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> There are many victories worse than a defeat. - George Eliot
+> Sir|Francis - Richard Bach
 <!-- QUOTE:END -->
 
 ---
