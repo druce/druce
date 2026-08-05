@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Sir|Francis - Richard Bach
+> War is peace. Freedom is slavery. Ignorance is strength. - George Orwell
 <!-- QUOTE:END -->
 
 ---
