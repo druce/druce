@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> To be a philosopher is not merely to have subtle thoughts, nor even to found a school, but so to love wisdom as to live according to its dictates, a life of simplicity, independence, magnanimity, and trust. - Henry David Thoreau
+> Men are qualified for civil liberty in exact proportion to their disposition to put moral chains upon their own appetites, - in proportion as their love to justice is above their rapacity, - in proportion as their soundness and sobriety of understanding is above their vanity and presumption, - in proportion as they are more disposed to listen to the counsels of the wise and good, in preference to the flattery of knaves. Society cannot exist, unless a controlling power upon will and appetite be placed somewhere; and the less of it there is within, the more there must be without. It is ordained in the eternal constitution of things, that men of intemperate minds cannot be free. Their passions forge their fetters. - Edmund Burke
 <!-- QUOTE:END -->
 
 ---
