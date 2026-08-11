@@ -65,7 +65,9 @@
 ---
 
 <!-- QUOTE:START -->
-> The minute you settle for less than you deserve, you get even less than you settled for. - Simone de Beauvoir
+> Monk: "And Saint Attila raised the hand grenade up on high, saying, 'Oh, Lord, bless this thy hand grenade that with it thou mayest blow thy enemies to tiny bits, in thy mercy.' And the Lord did grin, and people did feast upon the lambs, and sloths, and carp, and anchovies, and orangutans, and breakfast cereals, and fruit bats, and large--"
+> Brother Maynard: "Skip a bit, Brother."
+> Monk: "And the Lord spake, saying, 'First shalt thou take out the Holy Pin. Then, shalt thou count to three, no more, no less. Three shall be the number thou shalt count, and the number of the counting shall be three. Four shalt thou not count, nor either count thou two, excepting that thou then proceed to three. Five is right out. Once the number three, being the third number, be reached, then lobbest thou thy Holy Hand Grenade of Antioch towards thy foe, who being naughty in my sight, shall snuff it.'" - Anonymous
 <!-- QUOTE:END -->
 
 ---
