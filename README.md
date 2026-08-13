@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> This time, like all times, is a very good one, if we but know what to do with it. - Ralph Waldo Emerson
+> All great truths begin as blasphemies. - George Bernard Shaw
 <!-- QUOTE:END -->
 
 ---
