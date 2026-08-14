@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> All great truths begin as blasphemies. - George Bernard Shaw
+> Everywhere I go, I'm asked if I think the universities stifle writers. My opinion is that they don't stifle enough of them. - Flannery O'Connor
 <!-- QUOTE:END -->
 
 ---
