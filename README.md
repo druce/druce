@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Everywhere I go, I'm asked if I think the universities stifle writers. My opinion is that they don't stifle enough of them. - Flannery O'Connor
+> Trade curses every thing it handles; and though you trade in messages from heaven, the whole curse of trade attaches to the business. - Henry David Thoreau
 <!-- QUOTE:END -->
 
 ---
