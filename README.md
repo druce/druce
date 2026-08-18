@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Learn to fail, or fail to learn. - Anonymous
+> The United States is a nation of laws: badly written and randomly enforced. - Frank Zappa
 <!-- QUOTE:END -->
 
 ---
