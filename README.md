@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> The United States is a nation of laws: badly written and randomly enforced. - Frank Zappa
+> All science is either physics or stamp collecting. - Ernest Rutherford
 <!-- QUOTE:END -->
 
 ---
