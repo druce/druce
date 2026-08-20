@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> All science is either physics or stamp collecting. - Ernest Rutherford
+> Our government has kept us in a perpetual state of fear, kept us in a continuous stampede of patriotic fervor, with the cry of grave national emergency. Always there has been some terrible evil at home or some monstrous foreign power that was going to gobble us up if we did not blindly rally behind it. - Vince Lombardi
 <!-- QUOTE:END -->
 
 ---
