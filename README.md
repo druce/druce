@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> The Yankees don't pay me to win every day, just two out of three. - Casey Stengel
+> Never seem wiser, nor more learned, than the people you are with. Wear your learning, like your watch, in a private pocket: and do not merely pull it out and strike it, merely to show that you have one. - Anton Chekhov
 <!-- QUOTE:END -->
 
 ---
