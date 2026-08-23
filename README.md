@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Never seem wiser, nor more learned, than the people you are with. Wear your learning, like your watch, in a private pocket: and do not merely pull it out and strike it, merely to show that you have one. - Anton Chekhov
+> Results are gained by exploiting opportunities, not by solving problems. - Peter F. Drucker
 <!-- QUOTE:END -->
 
 ---
