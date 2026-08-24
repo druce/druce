@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Results are gained by exploiting opportunities, not by solving problems. - Peter F. Drucker
+> Nothing is more permanent than a temporary solution. - Anonymous
 <!-- QUOTE:END -->
 
 ---
