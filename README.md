@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Living up to ideals is like doing everyday work with your Sunday clothes on. - Edward W. Howe
+> Popular consensus says that reality is based on popular consensus. - Anonymous
 <!-- QUOTE:END -->
 
 ---
