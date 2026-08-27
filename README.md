@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Popular consensus says that reality is based on popular consensus. - Anonymous
+> Lord - Anton Chekhov
 <!-- QUOTE:END -->
 
 ---
