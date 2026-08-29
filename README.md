@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Nothing in the world is permanent, and we’re foolish when we ask anything to last, but surely we’re still more foolish not to take delight in it while we have it. - William Somerset Maugham
+> Kind hearts are more than coronets, and simple faith than Norman blood. - Alfred, Lord Tennyson
 <!-- QUOTE:END -->
 
 ---
