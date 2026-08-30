@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Kind hearts are more than coronets, and simple faith than Norman blood. - Alfred, Lord Tennyson
+> Evolution of democracy is not possible if we are not prepared to hear the other side. - Mohandas K. Gandhi
 <!-- QUOTE:END -->
 
 ---
