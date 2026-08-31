@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Evolution of democracy is not possible if we are not prepared to hear the other side. - Mohandas K. Gandhi
+> Hope is such a bait, it covers any hook. - Oliver Goldsmith
 <!-- QUOTE:END -->
 
 ---
