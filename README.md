@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Hope is such a bait, it covers any hook. - Oliver Goldsmith
+> Anyone can make the simple complicated. Creativity is making the complicated simple. - Charlie Mingus
 <!-- QUOTE:END -->
 
 ---
