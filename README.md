@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Anyone can make the simple complicated. Creativity is making the complicated simple. - Charlie Mingus
+> You cannot put a rope around the neck of an idea; you cannot put an idea up against the barrack-square wall and riddle it with bullets; you cannot confine it in the strongest prison cell your slaves could ever build. - Sean O'Casey
 <!-- QUOTE:END -->
 
 ---
