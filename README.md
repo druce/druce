@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> You cannot put a rope around the neck of an idea; you cannot put an idea up against the barrack-square wall and riddle it with bullets; you cannot confine it in the strongest prison cell your slaves could ever build. - Sean O'Casey
+> Riches get their value from the mind of the possessor; they are blessings to those who know how to use them, and curses to those who do not. - Terence
 <!-- QUOTE:END -->
 
 ---
