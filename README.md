@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Riches get their value from the mind of the possessor; they are blessings to those who know how to use them, and curses to those who do not. - Terence
+> Let us be grateful to people who make us happy, they are the charming gardeners who make our souls blossom. - Marcel Proust
 <!-- QUOTE:END -->
 
 ---
