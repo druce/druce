@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Let us be grateful to people who make us happy, they are the charming gardeners who make our souls blossom. - Marcel Proust
+> I just distrust people who want to change the world, but who don't want to change themselves. All the social evils that we see around us, they're all in a microcosm form in each of us. Who can point the finger? - Bono
 <!-- QUOTE:END -->
 
 ---
