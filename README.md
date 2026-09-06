@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> I just distrust people who want to change the world, but who don't want to change themselves. All the social evils that we see around us, they're all in a microcosm form in each of us. Who can point the finger? - Bono
+> He was wont to say that if he had read as much as other men he should have known no more than other men. - Isaac Asimov
 <!-- QUOTE:END -->
 
 ---
