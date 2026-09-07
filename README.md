@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> He was wont to say that if he had read as much as other men he should have known no more than other men. - Isaac Asimov
+> I foresee that man will resign himself each day to new abominations, and soon that only bandits and soldiers will be left. - Jorge Luis Borges
 <!-- QUOTE:END -->
 
 ---
