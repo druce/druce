@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> I foresee that man will resign himself each day to new abominations, and soon that only bandits and soldiers will be left. - Jorge Luis Borges
+> Down to Gehenna, or up to the Throne, He travels the fastest who travels alone. - Rudyard Kipling
 <!-- QUOTE:END -->
 
 ---
