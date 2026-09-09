@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Down to Gehenna, or up to the Throne, He travels the fastest who travels alone. - Rudyard Kipling
+> I have as much authority as the Pope, I just don't have as many people who believe it. - George Carlin
 <!-- QUOTE:END -->
 
 ---
