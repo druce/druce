@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> I have as much authority as the Pope, I just don't have as many people who believe it. - George Carlin
+> The fault-finder will find faults even in paradise. - Henry David Thoreau
 <!-- QUOTE:END -->
 
 ---
