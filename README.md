@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> The fault-finder will find faults even in paradise. - Henry David Thoreau
+> The more corrupt the republic, the more numerous the laws. - Tacitus
 <!-- QUOTE:END -->
 
 ---
