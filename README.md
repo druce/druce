@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> The more corrupt the republic, the more numerous the laws. - Tacitus
+> Men easily believe that which they desire. - Julius Caesar
 <!-- QUOTE:END -->
 
 ---
