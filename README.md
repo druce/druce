@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Men easily believe that which they desire. - Julius Caesar
+> We are all pencils in the hand of God. - Sara Teasdale
 <!-- QUOTE:END -->
 
 ---
