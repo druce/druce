@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> We are all pencils in the hand of God. - Sara Teasdale
+> Behind every form of government lurks an oligarchy. - Anonymous
 <!-- QUOTE:END -->
 
 ---
