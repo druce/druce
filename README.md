@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Behind every form of government lurks an oligarchy. - Anonymous
+> When lovely woman stoops to folly, and finds too late that men betray, what charm can soothe her melancholy, what art can wash her guilt away? - Oliver Goldsmith
 <!-- QUOTE:END -->
 
 ---
