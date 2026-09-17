@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Fiction was invented the day Jonas arr - Gabriel Garcia Marquez
+> Man is quite insane. He wouldn't know how to create a maggot, yet he creates gods by the dozen. - Michel de Montaigne
 <!-- QUOTE:END -->
 
 ---
