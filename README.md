@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Man is quite insane. He wouldn't know how to create a maggot, yet he creates gods by the dozen. - Michel de Montaigne
+> Injustice is relatively easy to bear; what stings is justice. - H. L. Mencken
 <!-- QUOTE:END -->
 
 ---
