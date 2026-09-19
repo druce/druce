@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Injustice is relatively easy to bear; what stings is justice. - H. L. Mencken
+> What would be the use of immortality to a person who cannot use well a half an hour. - Ralph Waldo Emerson
 <!-- QUOTE:END -->
 
 ---
