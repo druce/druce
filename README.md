@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> What would be the use of immortality to a person who cannot use well a half an hour. - Ralph Waldo Emerson
+> War is an ugly thing, but not the ugliest of things. The decayed and degraded state of moral and patriotic feeling which thinks that nothing is worth war is much worse. - John Stuart Mill
 <!-- QUOTE:END -->
 
 ---
