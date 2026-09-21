@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> War is an ugly thing, but not the ugliest of things. The decayed and degraded state of moral and patriotic feeling which thinks that nothing is worth war is much worse. - John Stuart Mill
+> Speculation is an effort, probably unsuccessful, to turn a little money into a lot. Investment is an effort, which should be successful, to prevent a lot of money from becoming a little. - Fred Schwed
 <!-- QUOTE:END -->
 
 ---
