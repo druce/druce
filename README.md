@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Speculation is an effort, probably unsuccessful, to turn a little money into a lot. Investment is an effort, which should be successful, to prevent a lot of money from becoming a little. - Fred Schwed
+> Humanity is an ocean; if a few drops of the ocean are dirty, the ocean does not become dirty. - Mohandas K. Gandhi
 <!-- QUOTE:END -->
 
 ---
