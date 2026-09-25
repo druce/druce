@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> A hundredload of worry will not pay an ounce of debt. - George Herbert
+> To learn who rules over you, simply find out whom you are not allowed to criticize. - Voltaire
 <!-- QUOTE:END -->
 
 ---
