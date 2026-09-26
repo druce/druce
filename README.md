@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> To learn who rules over you, simply find out whom you are not allowed to criticize. - Voltaire
+> Do not wait for the last judgment, it takes place every day. - Albert Camus
 <!-- QUOTE:END -->
 
 ---
