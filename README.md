@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Do not wait for the last judgment, it takes place every day. - Albert Camus
+> Power is not given, it is taken. - Anonymous
 <!-- QUOTE:END -->
 
 ---
