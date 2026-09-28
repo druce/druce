@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Power is not given, it is taken. - Anonymous
+> Men love in haste, but they detest at leisure. - Richard Burton
 <!-- QUOTE:END -->
 
 ---
