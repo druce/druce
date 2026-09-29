@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Men love in haste, but they detest at leisure. - Richard Burton
+> Dr. - Noam Chomsky
 <!-- QUOTE:END -->
 
 ---
