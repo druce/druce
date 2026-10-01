@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> If we knew what it was we were doing, it would not be called research, would it? - Albert Einstein
+> You should examine yourself daily. If you find faults, you should correct them. When you find none, you should look harder. - Xi Zhi
 <!-- QUOTE:END -->
 
 ---
