@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> You should examine yourself daily. If you find faults, you should correct them. When you find none, you should look harder. - Xi Zhi
+> Slouch, and the world slouches with you. Push, and you push alone. - Laurence J. Peter
 <!-- QUOTE:END -->
 
 ---
