@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Slouch, and the world slouches with you. Push, and you push alone. - Laurence J. Peter
+> I've always figured that if God wanted us to go to church a lot He'd have given us bigger behinds to sit on and smaller heads to think with. - P.J. O'Rourke
 <!-- QUOTE:END -->
 
 ---
