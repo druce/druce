@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> I've always figured that if God wanted us to go to church a lot He'd have given us bigger behinds to sit on and smaller heads to think with. - P.J. O'Rourke
+> Whenever you hear a man speak of his love for his country, it is a sign that he expects to be paid for it.  - H. L. Mencken
 <!-- QUOTE:END -->
 
 ---
