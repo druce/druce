@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Whenever you hear a man speak of his love for his country, it is a sign that he expects to be paid for it.  - H. L. Mencken
+> To fight and conquer in all our battles is not supreme excellence; supreme excellence consists in breaking the enemy's resistance without fighting. - Sun Tzu
 <!-- QUOTE:END -->
 
 ---
