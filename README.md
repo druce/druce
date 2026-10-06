@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> To fight and conquer in all our battles is not supreme excellence; supreme excellence consists in breaking the enemy's resistance without fighting. - Sun Tzu
+> Don't say you don't have enough time. You have exactly the same number of hours per day that were given to Helen Keller, Pasteur, Michaelangelo, Mother Teresa, Leonardo da Vinci, Thomas Jefferson, and Albert Einstein. - H. Jackson Brown, Jr.
 <!-- QUOTE:END -->
 
 ---
