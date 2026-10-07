@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Don't say you don't have enough time. You have exactly the same number of hours per day that were given to Helen Keller, Pasteur, Michaelangelo, Mother Teresa, Leonardo da Vinci, Thomas Jefferson, and Albert Einstein. - H. Jackson Brown, Jr.
+> Religion has convinced people that there's an invisible man living in the sky, who watches everything you do every minute of every day. And the invisible man has a list of ten specific things he doesn't want you to do. And if you do any of these things, he will send you to a special place, of burning and fire and smoke and torture and anguish for you to live forever, and suffer and burn and scream until the end of time. But he loves you. He loves you and he needs money. - George Carlin
 <!-- QUOTE:END -->
 
 ---
