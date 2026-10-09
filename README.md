@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> A little man often casts a long shadow. - G. M. Trevelyan
+> Fascism should more properly be called corporatism since it is the merger of state and corporate power. - Benito Mussolini
 <!-- QUOTE:END -->
 
 ---
