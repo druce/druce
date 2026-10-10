@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Fascism should more properly be called corporatism since it is the merger of state and corporate power. - Benito Mussolini
+> Every man has his own courage, and is betrayed because he seeks in himself the courage of other persons. - Ralph Waldo Emerson
 <!-- QUOTE:END -->
 
 ---
