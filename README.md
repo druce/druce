@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Every man has his own courage, and is betrayed because he seeks in himself the courage of other persons. - Ralph Waldo Emerson
+> Who on earth could live were all judged justly? - Richard Burton
 <!-- QUOTE:END -->
 
 ---
