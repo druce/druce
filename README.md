@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> When a management with a reputation for brilliance tackles a business with a reputation for bad economics, it is the reputation of the business that remains intact. - Warren Buffett
+> Investor: One who bought stocks that went up. Speculator: One who bought stocks that went down. - Malcolm S. Forbes
 <!-- QUOTE:END -->
 
 ---
