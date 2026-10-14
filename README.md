@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Investor: One who bought stocks that went up. Speculator: One who bought stocks that went down. - Malcolm S. Forbes
+> You and I are told we must choose between a left or right, but I suggest there is no such thing as a left or right.  There is only an up or down.  Up to man's age-old dream -- the maximum of individual freedom consistent with order -- or down to the ant heap of totalitarianism. Regardless of their sincerity, their humanitarian motives, those who would sacrifice freedom for security have embarked on this downward path. - Ronald Reagan
 <!-- QUOTE:END -->
 
 ---
