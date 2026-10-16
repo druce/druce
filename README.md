@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> All science is either physics or stamp collecting. - Ernest Rutherford
+> Success is never final and failure is never fatal. It's courage that counts. - George F. Tilton
 <!-- QUOTE:END -->
 
 ---
