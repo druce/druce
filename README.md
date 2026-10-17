@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Success is never final and failure is never fatal. It's courage that counts. - George F. Tilton
+> The best is good enough. - Anonymous
 <!-- QUOTE:END -->
 
 ---
