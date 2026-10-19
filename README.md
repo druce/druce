@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> You think you've got problems, what are you supposed to do if you're a manically depressed robot? No, don't bother to answer that, I'm fifty thousand times more intelligent than you and even I don't know the answer. It gives me a headache just trying to think down to your level. - Marvin, the Paranoid Android
+> Optimism is the enemy of the rational buyer. - Warren Buffett
 <!-- QUOTE:END -->
 
 ---
