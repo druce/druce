@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Optimism is the enemy of the rational buyer. - Warren Buffett
+> My principle is to survive first and make money afterwards. - George Soros
 <!-- QUOTE:END -->
 
 ---
