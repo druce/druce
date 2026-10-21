@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> My principle is to survive first and make money afterwards. - George Soros
+> Hope is such a bait, it covers any hook. - Oliver Goldsmith
 <!-- QUOTE:END -->
 
 ---
