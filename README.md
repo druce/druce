@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Hope is such a bait, it covers any hook. - Oliver Goldsmith
+> It can be very expensive to try to convince the markets you are right. - Ed Seykota
 <!-- QUOTE:END -->
 
 ---
