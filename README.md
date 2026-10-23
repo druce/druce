@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> It can be very expensive to try to convince the markets you are right. - Ed Seykota
+> A conservative believes nothing should be done for the first time. - Thomas Fuller
 <!-- QUOTE:END -->
 
 ---
