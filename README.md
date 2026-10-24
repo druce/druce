@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> A conservative believes nothing should be done for the first time. - Thomas Fuller
+> Love all, trust a few, do wrong to none. - William Shakespeare
 <!-- QUOTE:END -->
 
 ---
