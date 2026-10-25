@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Love all, trust a few, do wrong to none. - William Shakespeare
+> They don't ring a bell at the top (or the bottom). - Anonymous
 <!-- QUOTE:END -->
 
 ---
