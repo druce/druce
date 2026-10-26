@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> They don't ring a bell at the top (or the bottom). - Anonymous
+> There's no sense in being precise when you don't even know what you're talking about. - John von Neumann
 <!-- QUOTE:END -->
 
 ---
