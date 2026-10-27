@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> There's no sense in being precise when you don't even know what you're talking about. - John von Neumann
+> How odd I can have all this inside me and to you it’s just words. - David Foster Wallace
 <!-- QUOTE:END -->
 
 ---
