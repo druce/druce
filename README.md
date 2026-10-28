@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> How odd I can have all this inside me and to you it’s just words. - David Foster Wallace
+> It is just as vulgar to work for the sake of posterity as to work for the sake of money. - Orson Welles
 <!-- QUOTE:END -->
 
 ---
