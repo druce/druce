@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> It is just as vulgar to work for the sake of posterity as to work for the sake of money. - Orson Welles
+> If ye love wealth better than liberty, the tranquility of servitude better than the animating contest of freedom, go home from us in peace. We ask not your counsels or arms. Crouch down and lick the hands which feed you. May your chains set lightly upon you, and may posterity forget that ye were our countrymen. - Samuel Adams
 <!-- QUOTE:END -->
 
 ---
