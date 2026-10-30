@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> If ye love wealth better than liberty, the tranquility of servitude better than the animating contest of freedom, go home from us in peace. We ask not your counsels or arms. Crouch down and lick the hands which feed you. May your chains set lightly upon you, and may posterity forget that ye were our countrymen. - Samuel Adams
+> You cannot put a rope around the neck of an idea; you cannot put an idea up against the barrack-square wall and riddle it with bullets; you cannot confine it in the strongest prison cell your slaves could ever build. - Sean O'Casey
 <!-- QUOTE:END -->
 
 ---
