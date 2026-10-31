@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> You cannot put a rope around the neck of an idea; you cannot put an idea up against the barrack-square wall and riddle it with bullets; you cannot confine it in the strongest prison cell your slaves could ever build. - Sean O'Casey
+> Separated lovers cheat absence by a thousand fancies which have their own reality. They are prevented from seeing one another and they cannot write; nevertheless they find countless mysterious ways of corresponding, by sending each other the song of birds, the scent of flowers, the laughter of children, the light of the sun, the sighing of the wind, and the gleam of the stars -all the beauties of creation. - Homer
 <!-- QUOTE:END -->
 
 ---
