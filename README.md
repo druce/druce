@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Separated lovers cheat absence by a thousand fancies which have their own reality. They are prevented from seeing one another and they cannot write; nevertheless they find countless mysterious ways of corresponding, by sending each other the song of birds, the scent of flowers, the laughter of children, the light of the sun, the sighing of the wind, and the gleam of the stars -all the beauties of creation. - Homer
+> The biggest risk is not being in the market when it drops, but being out of the market when it rises. - Jim Jorgensen
 <!-- QUOTE:END -->
 
 ---
