@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> The biggest risk is not being in the market when it drops, but being out of the market when it rises. - Jim Jorgensen
+> It is hard to let old beliefs go. They are familiar. We are comfortable with them and have spent years building systems and developing habits that depend on them. Like a man who has worn eyeglasses so long that he forgets he has them on, we forget that the world looks to us the way it does because we have become used to seeing it that way through a particular set of lenses. Today, however, we need new lenses. And we need to throw the old ones away. - Kenichi Ohmae
 <!-- QUOTE:END -->
 
 ---
