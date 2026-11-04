@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> A girl in your convertible is worth five in your phone book. - Anonymous
+> First keep peace with yourself, then you can also bring peace to others. - Thomas &agrave; Kempis
 <!-- QUOTE:END -->
 
 ---
