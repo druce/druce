@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> First keep peace with yourself, then you can also bring peace to others. - Thomas &agrave; Kempis
+> Gunnery Sergeant|Francis - Richard Bach
 <!-- QUOTE:END -->
 
 ---
