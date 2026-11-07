@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Science as we know it has two basic types of practitioners. One is the educated man who still has a controlled sense of wonder before the universal mystery, whether it hides in a snail's eye or within the light that impinges on that delicate organ. The second kind of observer is the extreme reductionist who is so busy stripping things apart that the tremendous mystery has been reduced to a trifle, to intangibles not worth troubling one's head about. - Loren Eiseley
+> When you're riding ahead of the herd, every so often you have to look back and make sure they're still there. - Anonymous
 <!-- QUOTE:END -->
 
 ---
