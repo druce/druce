@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> When you're riding ahead of the herd, every so often you have to look back and make sure they're still there. - Anonymous
+> If God had meant there to be more than two factors of production, He would have made it easier for us to draw three-dimensional diagrams. - Robert Solow
 <!-- QUOTE:END -->
 
 ---
