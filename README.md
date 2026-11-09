@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> If God had meant there to be more than two factors of production, He would have made it easier for us to draw three-dimensional diagrams. - Robert Solow
+> Sometimes you have to play a long time to be able to play like yourself. - Miles Davis
 <!-- QUOTE:END -->
 
 ---
