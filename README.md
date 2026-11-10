@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Sometimes you have to play a long time to be able to play like yourself. - Miles Davis
+> Many people take no care of their money until they come nearly to the end of it, and others do just the same with their time. - Johann Wolfgang von Goethe
 <!-- QUOTE:END -->
 
 ---
