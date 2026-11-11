@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Many people take no care of their money until they come nearly to the end of it, and others do just the same with their time. - Johann Wolfgang von Goethe
+> The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge. - Daniel J. Boorstin
 <!-- QUOTE:END -->
 
 ---
