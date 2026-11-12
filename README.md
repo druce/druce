@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge. - Daniel J. Boorstin
+> A car is useless in New York, essential everywhere else. The same with good manners. - Mignon McLaughlin
 <!-- QUOTE:END -->
 
 ---
