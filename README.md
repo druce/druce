@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> A car is useless in New York, essential everywhere else. The same with good manners. - Mignon McLaughlin
+> If men were angels, no government would be necessary. -  James Madison
 <!-- QUOTE:END -->
 
 ---
