@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> If men were angels, no government would be necessary. -  James Madison
+> It takes 20 years to build a reputation and five minutes to ruin it. - Warren Buffett
 <!-- QUOTE:END -->
 
 ---
