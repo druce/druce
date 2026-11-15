@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> It takes 20 years to build a reputation and five minutes to ruin it. - Warren Buffett
+> Anything that doesn’t take years of your life and drive you to suicide hardly seems worth doing. - Cormac McCarthy
 <!-- QUOTE:END -->
 
 ---
