@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Anything that doesn’t take years of your life and drive you to suicide hardly seems worth doing. - Cormac McCarthy
+> A man should never be ashamed to own he has been in the wrong, which is but saying, in other words, that he is wiser today than he was yesterday. - Alexander Pope
 <!-- QUOTE:END -->
 
 ---
