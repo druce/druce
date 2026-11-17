@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> A man should never be ashamed to own he has been in the wrong, which is but saying, in other words, that he is wiser today than he was yesterday. - Alexander Pope
+> Love is the triumph of imagination over intelligence. - H. L. Mencken
 <!-- QUOTE:END -->
 
 ---
