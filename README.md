@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Love is the triumph of imagination over intelligence. - H. L. Mencken
+> Whatever is worth doing at all is worth doing well. - Anton Chekhov
 <!-- QUOTE:END -->
 
 ---
