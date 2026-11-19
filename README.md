@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Whatever is worth doing at all is worth doing well. - Anton Chekhov
+> The first casualty when war comes is truth. - Hiram Johnson
 <!-- QUOTE:END -->
 
 ---
