@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> The first casualty when war comes is truth. - Hiram Johnson
+> Where there are too many policemen, there is no liberty. Where there are too many soldiers, there is no peace. Where there are too many lawyers, there is no justice. - Lin Yutang
 <!-- QUOTE:END -->
 
 ---
