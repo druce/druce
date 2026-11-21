@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Where there are too many policemen, there is no liberty. Where there are too many soldiers, there is no peace. Where there are too many lawyers, there is no justice. - Lin Yutang
+> In this sad world of ours, sorrow comes to all; and, to the young, it comes with bitterest agony, because it takes them unawares. - Abraham Lincoln
 <!-- QUOTE:END -->
 
 ---
