@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> In this sad world of ours, sorrow comes to all; and, to the young, it comes with bitterest agony, because it takes them unawares. - Abraham Lincoln
+> There's no sense in being precise when you don't even know what you're talking about. - John von Neumann
 <!-- QUOTE:END -->
 
 ---
