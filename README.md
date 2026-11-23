@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> There's no sense in being precise when you don't even know what you're talking about. - John von Neumann
+> There is no racial bigotry here. I do not look down on niggers, kikes, wops or greasers. Here, you are all equally worthless. - Richard Bach
 <!-- QUOTE:END -->
 
 ---
