@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> There is no racial bigotry here. I do not look down on niggers, kikes, wops or greasers. Here, you are all equally worthless. - Richard Bach
+> Life is extinct on other planets because their scientists were more advanced than ours. - John Fitzgerald Kennedy
 <!-- QUOTE:END -->
 
 ---
