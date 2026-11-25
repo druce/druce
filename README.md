@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Life is extinct on other planets because their scientists were more advanced than ours. - John Fitzgerald Kennedy
+> No man is quite sane. Each has a vein of folly in his composition. - Ralph Waldo Emerson
 <!-- QUOTE:END -->
 
 ---
