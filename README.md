@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> No man is quite sane. Each has a vein of folly in his composition. - Ralph Waldo Emerson
+> If you aspire to lead, you must inspire sometimes unwarranted confidence. If you aspire to truth, you must embrace sometimes unwarranted skepticism. - Anonymous
 <!-- QUOTE:END -->
 
 ---
