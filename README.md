@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> If you aspire to lead, you must inspire sometimes unwarranted confidence. If you aspire to truth, you must embrace sometimes unwarranted skepticism. - Anonymous
+> Why then do you live, if you do not care to live well?"|(to a heckler who questioned the value of philosophy)|1| - Diogenes
 <!-- QUOTE:END -->
 
 ---
