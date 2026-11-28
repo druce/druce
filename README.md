@@ -65,7 +65,7 @@
 ---
 
 <!-- QUOTE:START -->
-> Why then do you live, if you do not care to live well?"|(to a heckler who questioned the value of philosophy)|1| - Diogenes
+> What everyone knows isn't worth knowing. - Gerard Loeb
 <!-- QUOTE:END -->
 
 ---
